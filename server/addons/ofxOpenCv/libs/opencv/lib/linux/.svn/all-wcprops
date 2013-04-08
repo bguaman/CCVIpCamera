@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxOpenCv/libs/opencv/lib/linux
+END
+libcxcore.a
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ifloor/!svn/ver/9/trunk/server/addons/ofxOpenCv/libs/opencv/lib/linux/libcxcore.a
+END
+libcvaux.a
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ifloor/!svn/ver/9/trunk/server/addons/ofxOpenCv/libs/opencv/lib/linux/libcvaux.a
+END
+libcv.a
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ifloor/!svn/ver/9/trunk/server/addons/ofxOpenCv/libs/opencv/lib/linux/libcv.a
+END

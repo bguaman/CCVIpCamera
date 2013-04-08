@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ifloor/!svn/ver/5/trunk/server/libs/poco/include/Poco/Dynamic
+END
+Struct.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ifloor/!svn/ver/5/trunk/server/libs/poco/include/Poco/Dynamic/Struct.h
+END
+VarHolder.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ifloor/!svn/ver/5/trunk/server/libs/poco/include/Poco/Dynamic/VarHolder.h
+END
+Var.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ifloor/!svn/ver/5/trunk/server/libs/poco/include/Poco/Dynamic/Var.h
+END

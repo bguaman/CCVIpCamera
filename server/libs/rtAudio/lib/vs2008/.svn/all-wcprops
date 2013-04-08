@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ifloor/!svn/ver/5/trunk/server/libs/rtAudio/lib/vs2008
+END
+rtAudioD.lib
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ifloor/!svn/ver/5/trunk/server/libs/rtAudio/lib/vs2008/rtAudioD.lib
+END
+dsound.lib
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ifloor/!svn/ver/5/trunk/server/libs/rtAudio/lib/vs2008/dsound.lib
+END
+rtAudio.lib
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ifloor/!svn/ver/5/trunk/server/libs/rtAudio/lib/vs2008/rtAudio.lib
+END

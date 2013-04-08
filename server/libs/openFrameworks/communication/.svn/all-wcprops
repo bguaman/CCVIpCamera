@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ifloor/!svn/ver/5/trunk/server/libs/openFrameworks/communication
+END
+ofSerial.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ifloor/!svn/ver/5/trunk/server/libs/openFrameworks/communication/ofSerial.cpp
+END
+ofArduino.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ifloor/!svn/ver/5/trunk/server/libs/openFrameworks/communication/ofArduino.cpp
+END
+ofSerial.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ifloor/!svn/ver/5/trunk/server/libs/openFrameworks/communication/ofSerial.h
+END
+ofArduino.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ifloor/!svn/ver/5/trunk/server/libs/openFrameworks/communication/ofArduino.h
+END

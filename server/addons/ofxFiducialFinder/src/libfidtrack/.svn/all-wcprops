@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxFiducialFinder/src/libfidtrack
+END
+fidtrackX.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxFiducialFinder/src/libfidtrack/fidtrackX.cpp
+END
+treeidmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxFiducialFinder/src/libfidtrack/treeidmap.h
+END
+segment.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxFiducialFinder/src/libfidtrack/segment.cpp
+END
+fidtrackX.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxFiducialFinder/src/libfidtrack/fidtrackX.h
+END
+floatpoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxFiducialFinder/src/libfidtrack/floatpoint.h
+END
+segment.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxFiducialFinder/src/libfidtrack/segment.h
+END
+treeidmap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxFiducialFinder/src/libfidtrack/treeidmap.cpp
+END
+default_trees.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxFiducialFinder/src/libfidtrack/default_trees.h
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ifloor/!svn/ver/5/trunk/server/libs/glut/lib/osx/GLUT.framework
+END
+Resources
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ifloor/!svn/ver/5/trunk/server/libs/glut/lib/osx/GLUT.framework/Resources
+END
+GLUT
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ifloor/!svn/ver/5/trunk/server/libs/glut/lib/osx/GLUT.framework/GLUT
+END
+Headers
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ifloor/!svn/ver/5/trunk/server/libs/glut/lib/osx/GLUT.framework/Headers
+END

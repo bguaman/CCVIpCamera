@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxDSVL/src
+END
+ofxDSVL.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxDSVL/src/ofxDSVL.cpp
+END
+ofxDSVL.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxDSVL/src/ofxDSVL.h
+END
+DSVL_PixelFormatTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxDSVL/src/DSVL_PixelFormatTypes.h
+END
+dsvl.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxDSVL/src/dsvl.h
+END

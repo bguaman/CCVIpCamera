@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxNCore/src/Templates
+END
+Template.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxNCore/src/Templates/Template.h
+END
+TemplateUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxNCore/src/Templates/TemplateUtils.h
+END
+TemplateUtils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxNCore/src/Templates/TemplateUtils.cpp
+END

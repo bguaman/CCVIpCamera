@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ifloor/!svn/ver/6/trunk/server/libs/openFrameworks
+END
+ofMain.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ifloor/!svn/ver/5/trunk/server/libs/openFrameworks/ofMain.h
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ifloor/!svn/ver/5/trunk/server/libs/openFrameworks/.project
+END
+.cproject
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ifloor/!svn/ver/5/trunk/server/libs/openFrameworks/.cproject
+END

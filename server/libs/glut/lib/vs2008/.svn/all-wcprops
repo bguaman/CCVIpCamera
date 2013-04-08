@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ifloor/!svn/ver/5/trunk/server/libs/glut/lib/vs2008
+END
+glut32.lib
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ifloor/!svn/ver/5/trunk/server/libs/glut/lib/vs2008/glut32.lib
+END
+glut32.dll
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ifloor/!svn/ver/5/trunk/server/libs/glut/lib/vs2008/glut32.dll
+END

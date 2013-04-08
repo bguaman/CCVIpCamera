@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxFiducialFinder/Example/src
+END
+testApp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxFiducialFinder/Example/src/testApp.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxFiducialFinder/Example/src/main.cpp
+END
+testApp.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxFiducialFinder/Example/src/testApp.h
+END

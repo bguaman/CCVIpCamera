@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxOpenCv/libs/opencv/include
+END
+cvvidsurv.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxOpenCv/libs/opencv/include/cvvidsurv.hpp
+END
+cvtypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxOpenCv/libs/opencv/include/cvtypes.h
+END
+cxtypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxOpenCv/libs/opencv/include/cxtypes.h
+END
+cvwimage.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxOpenCv/libs/opencv/include/cvwimage.h
+END
+cvstreams.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxOpenCv/libs/opencv/include/cvstreams.h
+END
+cv.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxOpenCv/libs/opencv/include/cv.hpp
+END
+cv.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxOpenCv/libs/opencv/include/cv.h
+END
+cvmat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxOpenCv/libs/opencv/include/cvmat.hpp
+END
+cvcompat.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxOpenCv/libs/opencv/include/cvcompat.h
+END
+cxcore.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxOpenCv/libs/opencv/include/cxcore.hpp
+END
+cxcore.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxOpenCv/libs/opencv/include/cxcore.h
+END
+cxerror.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxOpenCv/libs/opencv/include/cxerror.h
+END
+cvver.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxOpenCv/libs/opencv/include/cvver.h
+END
+cxmisc.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxOpenCv/libs/opencv/include/cxmisc.h
+END
+cvaux.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxOpenCv/libs/opencv/include/cvaux.hpp
+END
+cvaux.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxOpenCv/libs/opencv/include/cvaux.h
+END

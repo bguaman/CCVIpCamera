@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ifloor/!svn/ver/5/trunk/server/libs/glut/lib/osx/GLUT.framework/Versions/A/Headers
+END
+glutf90.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ifloor/!svn/ver/5/trunk/server/libs/glut/lib/osx/GLUT.framework/Versions/A/Headers/glutf90.h
+END
+glsmapint.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ifloor/!svn/ver/5/trunk/server/libs/glut/lib/osx/GLUT.framework/Versions/A/Headers/glsmapint.h
+END
+tube.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ifloor/!svn/ver/5/trunk/server/libs/glut/lib/osx/GLUT.framework/Versions/A/Headers/tube.h
+END
+intersect.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ifloor/!svn/ver/5/trunk/server/libs/glut/lib/osx/GLUT.framework/Versions/A/Headers/intersect.h
+END
+segment.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ifloor/!svn/ver/5/trunk/server/libs/glut/lib/osx/GLUT.framework/Versions/A/Headers/segment.h
+END
+glutstroke.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ifloor/!svn/ver/5/trunk/server/libs/glut/lib/osx/GLUT.framework/Versions/A/Headers/glutstroke.h
+END
+rot.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ifloor/!svn/ver/5/trunk/server/libs/glut/lib/osx/GLUT.framework/Versions/A/Headers/rot.h
+END
+tube_gc.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ifloor/!svn/ver/5/trunk/server/libs/glut/lib/osx/GLUT.framework/Versions/A/Headers/tube_gc.h
+END
+glutbitmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ifloor/!svn/ver/5/trunk/server/libs/glut/lib/osx/GLUT.framework/Versions/A/Headers/glutbitmap.h
+END
+copy.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ifloor/!svn/ver/5/trunk/server/libs/glut/lib/osx/GLUT.framework/Versions/A/Headers/copy.h
+END
+glut.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ifloor/!svn/ver/5/trunk/server/libs/glut/lib/osx/GLUT.framework/Versions/A/Headers/glut.h
+END
+extrude.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ifloor/!svn/ver/5/trunk/server/libs/glut/lib/osx/GLUT.framework/Versions/A/Headers/extrude.h
+END
+glsmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ifloor/!svn/ver/5/trunk/server/libs/glut/lib/osx/GLUT.framework/Versions/A/Headers/glsmap.h
+END
+port.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ifloor/!svn/ver/5/trunk/server/libs/glut/lib/osx/GLUT.framework/Versions/A/Headers/port.h
+END
+gutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ifloor/!svn/ver/5/trunk/server/libs/glut/lib/osx/GLUT.framework/Versions/A/Headers/gutil.h
+END
+vvector.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ifloor/!svn/ver/5/trunk/server/libs/glut/lib/osx/GLUT.framework/Versions/A/Headers/vvector.h
+END

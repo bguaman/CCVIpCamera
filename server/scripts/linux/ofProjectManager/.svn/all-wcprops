@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ifloor/!svn/ver/5/trunk/server/scripts/linux/ofProjectManager
+END
+install_project_manager.sh
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ifloor/!svn/ver/5/trunk/server/scripts/linux/ofProjectManager/install_project_manager.sh
+END
+ofEnvironment.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ifloor/!svn/ver/5/trunk/server/scripts/linux/ofProjectManager/ofEnvironment.py
+END
+ofProject.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ifloor/!svn/ver/5/trunk/server/scripts/linux/ofProjectManager/ofProject.py
+END
+ofxDescriptor.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ifloor/!svn/ver/5/trunk/server/scripts/linux/ofProjectManager/ofxDescriptor.py
+END
+ofAddons.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ifloor/!svn/ver/5/trunk/server/scripts/linux/ofProjectManager/ofAddons.py
+END
+ofProjectManager.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ifloor/!svn/ver/5/trunk/server/scripts/linux/ofProjectManager/ofProjectManager.py
+END

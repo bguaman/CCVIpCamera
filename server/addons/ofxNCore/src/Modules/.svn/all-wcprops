@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxNCore/src/Modules
+END
+ofxNCoreBase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxNCore/src/Modules/ofxNCoreBase.cpp
+END
+ofxNCoreVision.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ifloor/!svn/ver/17/trunk/server/addons/ofxNCore/src/Modules/ofxNCoreVision.h
+END
+ofxNCoreBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxNCore/src/Modules/ofxNCoreBase.h
+END
+ofxNCoreVision.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxNCore/src/Modules/ofxNCoreVision.cpp
+END

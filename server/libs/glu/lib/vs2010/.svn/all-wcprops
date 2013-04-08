@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ifloor/!svn/ver/5/trunk/server/libs/glu/lib/vs2010
+END
+glu32.lib
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ifloor/!svn/ver/5/trunk/server/libs/glu/lib/vs2010/glu32.lib
+END
+glu32.dll
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ifloor/!svn/ver/5/trunk/server/libs/glu/lib/vs2010/glu32.dll
+END

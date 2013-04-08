@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/ifloor/!svn/ver/5/trunk/server/scripts/dev
+END
+create_package.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ifloor/!svn/ver/5/trunk/server/scripts/dev/create_package.sh
+END

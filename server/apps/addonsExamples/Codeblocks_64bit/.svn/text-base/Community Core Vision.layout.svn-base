@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="../../../addons/ofxDirList/src/ofxDirList.cpp" open="0" top="0" tabpos="6">
+		<Cursor position="1593" topLine="47" />
+	</File>
+	<File name="../../../addons/ofxDirList/src/ofxDirList.h" open="0" top="0" tabpos="2">
+		<Cursor position="8224" topLine="202" />
+	</File>
+	<File name="../../../addons/ofxFiducialFinder/src/ofxFiducial.h" open="0" top="0" tabpos="6">
+		<Cursor position="13029" topLine="360" />
+	</File>
+	<File name="../../../addons/ofxFiducialFinder/src/ofxFiducialTracker.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="7468" topLine="215" />
+	</File>
+	<File name="../../../addons/ofxFiducialFinder/src/ofxFinger.h" open="0" top="0" tabpos="8">
+		<Cursor position="2991" topLine="65" />
+	</File>
+	<File name="../../../addons/ofxNCore/src/Calibration/Calibration.cpp" open="0" top="0" tabpos="14">
+		<Cursor position="7214" topLine="143" />
+	</File>
+	<File name="../../../addons/ofxNCore/src/Calibration/Calibration.h" open="0" top="0" tabpos="8">
+		<Cursor position="300" topLine="0" />
+	</File>
+	<File name="../../../addons/ofxNCore/src/Camera/CameraUtils.h" open="0" top="0" tabpos="18">
+		<Cursor position="1152" topLine="41" />
+	</File>
+	<File name="../../../addons/ofxNCore/src/Communication/TUIO.cpp" open="0" top="0" tabpos="11">
+		<Cursor position="2291" topLine="90" />
+	</File>
+	<File name="../../../addons/ofxNCore/src/Controls/gui.h" open="1" top="0" tabpos="3">
+		<Cursor position="25503" topLine="623" />
+	</File>
+	<File name="../../../addons/ofxNCore/src/Controls/ofxGui.cpp" open="0" top="0" tabpos="6">
+		<Cursor position="1204" topLine="0" />
+	</File>
+	<File name="../../../addons/ofxNCore/src/Controls/ofxGui.h" open="0" top="0" tabpos="5">
+		<Cursor position="925" topLine="0" />
+	</File>
+	<File name="../../../addons/ofxNCore/src/Controls/ofxGuiButton.cpp" open="0" top="0" tabpos="8">
+		<Cursor position="0" topLine="94" />
+	</File>
+	<File name="../../../addons/ofxNCore/src/Controls/ofxGuiButton.h" open="0" top="0" tabpos="7">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="../../../addons/ofxNCore/src/Filters/CPUImageFilter.cpp" open="0" top="0" tabpos="5">
+		<Cursor position="929" topLine="24" />
+	</File>
+	<File name="../../../addons/ofxNCore/src/Modules/ofxNCoreBase.cpp" open="0" top="0" tabpos="8">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="../../../addons/ofxNCore/src/Modules/ofxNCoreBase.h" open="0" top="0" tabpos="9">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="../../../addons/ofxNCore/src/Modules/ofxNCoreVision.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="8012" topLine="193" />
+	</File>
+	<File name="../../../addons/ofxNCore/src/Modules/ofxNCoreVision.h" open="1" top="1" tabpos="1">
+		<Cursor position="3562" topLine="105" />
+	</File>
+	<File name="../../../addons/ofxNCore/src/Templates/TemplateUtils.cpp" open="0" top="0" tabpos="12">
+		<Cursor position="2889" topLine="38" />
+	</File>
+	<File name="../../../addons/ofxNCore/src/Templates/TemplateUtils.h" open="0" top="0" tabpos="10">
+		<Cursor position="883" topLine="0" />
+	</File>
+	<File name="../../../addons/ofxNCore/src/Tracking/Blob.h" open="0" top="0" tabpos="2">
+		<Cursor position="582" topLine="36" />
+	</File>
+	<File name="../../../addons/ofxNCore/src/Tracking/ContourFinder.cpp" open="0" top="0" tabpos="13">
+		<Cursor position="3032" topLine="10" />
+	</File>
+	<File name="../../../addons/ofxNCore/src/Tracking/ContourFinder.h" open="1" top="0" tabpos="5">
+		<Cursor position="1272" topLine="41" />
+	</File>
+	<File name="../../../addons/ofxNCore/src/Tracking/Tracking.cpp" open="0" top="0" tabpos="12">
+		<Cursor position="4285" topLine="303" />
+	</File>
+	<File name="../../../addons/ofxNCore/src/Tracking/Tracking.h" open="0" top="0" tabpos="6">
+		<Cursor position="455" topLine="15" />
+	</File>
+	<File name="../../../addons/ofxNCore/src/ofxNCore.h" open="0" top="0" tabpos="22">
+		<Cursor position="1967" topLine="10" />
+	</File>
+	<File name="../../../addons/ofxNetwork/src/ofxNetwork.h" open="0" top="0" tabpos="4">
+		<Cursor position="185" topLine="0" />
+	</File>
+	<File name="../../../addons/ofxNetwork/src/ofxNetworkUtils.h" open="0" top="0" tabpos="11">
+		<Cursor position="1615" topLine="15" />
+	</File>
+	<File name="../../../addons/ofxNetwork/src/ofxTCPClient.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="0" topLine="200" />
+	</File>
+	<File name="../../../addons/ofxNetwork/src/ofxTCPClient.h" open="0" top="0" tabpos="0">
+		<Cursor position="51" topLine="0" />
+	</File>
+	<File name="../../../addons/ofxNetwork/src/ofxTCPManager.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="891" topLine="445" />
+	</File>
+	<File name="../../../addons/ofxNetwork/src/ofxTCPManager.h" open="0" top="0" tabpos="0">
+		<Cursor position="1024" topLine="27" />
+	</File>
+	<File name="../../../addons/ofxOpenCv/src/ofxCvContourFinder.cpp" open="0" top="0" tabpos="17">
+		<Cursor position="1863" topLine="15" />
+	</File>
+	<File name="../../../addons/ofxOpenCv/src/ofxCvImage.cpp" open="0" top="0" tabpos="6">
+		<Cursor position="496" topLine="230" />
+	</File>
+	<File name="../../../addons/ofxOpenCv/src/ofxCvShortImage.cpp" open="0" top="0" tabpos="14">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="../../../addons/ofxOpenCv/src/ofxCvShortImage.h" open="0" top="0" tabpos="7">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="../../../addons/ofxOpenCv/src/ofxOpenCv.h" open="0" top="0" tabpos="12">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="../../../addons/ofxOsc/src/ofxOscBundle.cpp" open="0" top="0" tabpos="6">
+		<Cursor position="1493" topLine="13" />
+	</File>
+	<File name="../../../addons/ofxOsc/src/ofxOscBundle.h" open="0" top="0" tabpos="0">
+		<Cursor position="1592" topLine="13" />
+	</File>
+	<File name="../../../addons/ofxOsc/src/ofxOscMessage.cpp" open="0" top="0" tabpos="15">
+		<Cursor position="5105" topLine="130" />
+	</File>
+	<File name="../../../addons/ofxOsc/src/ofxOscMessage.h" open="0" top="0" tabpos="16">
+		<Cursor position="0" topLine="56" />
+	</File>
+	<File name="../../../addons/ofxOsc/src/ofxOscReceiver.cpp" open="0" top="0" tabpos="9">
+		<Cursor position="0" topLine="200" />
+	</File>
+	<File name="../../../addons/ofxOsc/src/ofxOscReceiver.h" open="0" top="0" tabpos="8">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="../../../addons/ofxOsc/src/ofxOscSender.cpp" open="0" top="0" tabpos="7">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="../../../addons/ofxThread/src/ofxThread.cpp" open="0" top="0" tabpos="10">
+		<Cursor position="462" topLine="0" />
+	</File>
+	<File name="../../../addons/ofxVectorGraphics/src/ofxVectorGraphics.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="3794" topLine="156" />
+	</File>
+	<File name="../../../addons/ofxXmlSettings/src/ofxXmlSettings.cpp" open="0" top="0" tabpos="13">
+		<Cursor position="1517" topLine="30" />
+	</File>
+	<File name="src/main.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="458" topLine="0" />
+	</File>
+	<File name="src/testApp.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="176" topLine="0" />
+	</File>
+	<File name="src/testApp.h" open="0" top="0" tabpos="21">
+		<Cursor position="0" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

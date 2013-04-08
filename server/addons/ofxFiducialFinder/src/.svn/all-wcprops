@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxFiducialFinder/src
+END
+ofxFiducialTracker.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxFiducialFinder/src/ofxFiducialTracker.h
+END
+ofxFiducial.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxFiducialFinder/src/ofxFiducial.h
+END
+ofxFiducialFinder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxFiducialFinder/src/ofxFiducialFinder.cpp
+END
+ofxFidMain.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxFiducialFinder/src/ofxFidMain.h
+END
+ofxFiducialTracker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxFiducialFinder/src/ofxFiducialTracker.cpp
+END
+ofxFiducialFinder.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxFiducialFinder/src/ofxFiducialFinder.h
+END
+ofxFinger.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxFiducialFinder/src/ofxFinger.h
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxFFMV/src
+END
+ofxffmv.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxFFMV/src/ofxffmv.h
+END
+ofxffmv.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxFFMV/src/ofxffmv.cpp
+END
+pgrflycapture.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxFFMV/src/pgrflycapture.h
+END

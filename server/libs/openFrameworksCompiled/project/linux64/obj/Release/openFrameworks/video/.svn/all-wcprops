@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ifloor/!svn/ver/5/trunk/server/libs/openFrameworksCompiled/project/linux64/obj/Release/openFrameworks/video
+END
+ofVideoGrabber.d
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/ifloor/!svn/ver/5/trunk/server/libs/openFrameworksCompiled/project/linux64/obj/Release/openFrameworks/video/ofVideoGrabber.d
+END
+ofGstUtils.d
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/ifloor/!svn/ver/5/trunk/server/libs/openFrameworksCompiled/project/linux64/obj/Release/openFrameworks/video/ofGstUtils.d
+END
+ofVideoPlayer.d
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/ifloor/!svn/ver/5/trunk/server/libs/openFrameworksCompiled/project/linux64/obj/Release/openFrameworks/video/ofVideoPlayer.d
+END
+ofQtUtils.d
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/ifloor/!svn/ver/5/trunk/server/libs/openFrameworksCompiled/project/linux64/obj/Release/openFrameworks/video/ofQtUtils.d
+END

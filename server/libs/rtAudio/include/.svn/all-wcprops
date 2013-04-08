@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ifloor/!svn/ver/5/trunk/server/libs/rtAudio/include
+END
+RtError.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ifloor/!svn/ver/5/trunk/server/libs/rtAudio/include/RtError.h
+END
+RtAudio.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ifloor/!svn/ver/5/trunk/server/libs/rtAudio/include/RtAudio.h
+END

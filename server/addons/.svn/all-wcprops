@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/ifloor/!svn/ver/6/trunk/server/addons
+END
+ofAddons.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofAddons.h
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ifloor/!svn/ver/5/trunk/server/addons/.project
+END
+.cproject
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/ifloor/!svn/ver/5/trunk/server/addons/.cproject
+END

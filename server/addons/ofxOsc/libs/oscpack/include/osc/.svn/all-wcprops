@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxOsc/libs/oscpack/include/osc
+END
+OscTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxOsc/libs/oscpack/include/osc/OscTypes.h
+END
+OscHostEndianness.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxOsc/libs/oscpack/include/osc/OscHostEndianness.h
+END
+OscPacketListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxOsc/libs/oscpack/include/osc/OscPacketListener.h
+END
+MessageMappingOscPacketListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxOsc/libs/oscpack/include/osc/MessageMappingOscPacketListener.h
+END
+OscException.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxOsc/libs/oscpack/include/osc/OscException.h
+END
+OscPrintReceivedElements.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxOsc/libs/oscpack/include/osc/OscPrintReceivedElements.h
+END
+OscOutboundPacketStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxOsc/libs/oscpack/include/osc/OscOutboundPacketStream.h
+END
+OscReceivedElements.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxOsc/libs/oscpack/include/osc/OscReceivedElements.h
+END

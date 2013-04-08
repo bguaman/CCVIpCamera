@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxOsc/src
+END
+ofxOscArg.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxOsc/src/ofxOscArg.h
+END
+ofxOscBundle.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxOsc/src/ofxOscBundle.h
+END
+ofxOscSender.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ifloor/!svn/ver/8/trunk/server/addons/ofxOsc/src/ofxOscSender.cpp
+END
+ofxOsc.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxOsc/src/ofxOsc.h
+END
+ofxOscMessage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ifloor/!svn/ver/11/trunk/server/addons/ofxOsc/src/ofxOscMessage.cpp
+END
+ofxOscReceiver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxOsc/src/ofxOscReceiver.cpp
+END
+ofxOscSender.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxOsc/src/ofxOscSender.h
+END
+ofxOscBundle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxOsc/src/ofxOscBundle.cpp
+END
+ofxOscMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxOsc/src/ofxOscMessage.h
+END
+ofxOscReceiver.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxOsc/src/ofxOscReceiver.h
+END

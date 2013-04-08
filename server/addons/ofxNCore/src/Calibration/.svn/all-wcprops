@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxNCore/src/Calibration
+END
+boxAlign.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxNCore/src/Calibration/boxAlign.cpp
+END
+Calibration.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ifloor/!svn/ver/10/trunk/server/addons/ofxNCore/src/Calibration/Calibration.cpp
+END
+CalibrationUtils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxNCore/src/Calibration/CalibrationUtils.cpp
+END
+boxAlign.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxNCore/src/Calibration/boxAlign.h
+END
+rect2d.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxNCore/src/Calibration/rect2d.h
+END
+Calibration.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxNCore/src/Calibration/Calibration.h
+END
+CalibrationUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxNCore/src/Calibration/CalibrationUtils.h
+END
+vector2d.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxNCore/src/Calibration/vector2d.h
+END

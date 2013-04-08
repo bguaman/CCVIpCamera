@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ifloor/!svn/ver/5/trunk/server/apps/addonsExamples/Codeblocks_32bit/bin/data/shaders
+END
+blobDetector.fs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ifloor/!svn/ver/5/trunk/server/apps/addonsExamples/Codeblocks_32bit/bin/data/shaders/blobDetector.fs
+END
+gaussV.fs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ifloor/!svn/ver/5/trunk/server/apps/addonsExamples/Codeblocks_32bit/bin/data/shaders/gaussV.fs
+END
+copy.fs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ifloor/!svn/ver/5/trunk/server/apps/addonsExamples/Codeblocks_32bit/bin/data/shaders/copy.fs
+END
+gaussH.fs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ifloor/!svn/ver/5/trunk/server/apps/addonsExamples/Codeblocks_32bit/bin/data/shaders/gaussH.fs
+END
+grayScale.fs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ifloor/!svn/ver/5/trunk/server/apps/addonsExamples/Codeblocks_32bit/bin/data/shaders/grayScale.fs
+END
+blobExtractor.gs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ifloor/!svn/ver/5/trunk/server/apps/addonsExamples/Codeblocks_32bit/bin/data/shaders/blobExtractor.gs
+END
+inverse.fs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ifloor/!svn/ver/5/trunk/server/apps/addonsExamples/Codeblocks_32bit/bin/data/shaders/inverse.fs
+END
+threshold.fs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ifloor/!svn/ver/5/trunk/server/apps/addonsExamples/Codeblocks_32bit/bin/data/shaders/threshold.fs
+END
+absSubtract.fs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ifloor/!svn/ver/5/trunk/server/apps/addonsExamples/Codeblocks_32bit/bin/data/shaders/absSubtract.fs
+END
+contrast.fs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ifloor/!svn/ver/5/trunk/server/apps/addonsExamples/Codeblocks_32bit/bin/data/shaders/contrast.fs
+END
+minimal.vs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ifloor/!svn/ver/5/trunk/server/apps/addonsExamples/Codeblocks_32bit/bin/data/shaders/minimal.vs
+END
+subtract.fs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ifloor/!svn/ver/5/trunk/server/apps/addonsExamples/Codeblocks_32bit/bin/data/shaders/subtract.fs
+END

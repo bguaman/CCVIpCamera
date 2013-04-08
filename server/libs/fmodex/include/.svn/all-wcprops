@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ifloor/!svn/ver/5/trunk/server/libs/fmodex/include
+END
+fmod_memoryinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ifloor/!svn/ver/5/trunk/server/libs/fmodex/include/fmod_memoryinfo.h
+END
+fmod_dsp.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ifloor/!svn/ver/5/trunk/server/libs/fmodex/include/fmod_dsp.h
+END
+fmod_errors.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ifloor/!svn/ver/5/trunk/server/libs/fmodex/include/fmod_errors.h
+END
+fmod_codec.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ifloor/!svn/ver/5/trunk/server/libs/fmodex/include/fmod_codec.h
+END
+fmod.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ifloor/!svn/ver/5/trunk/server/libs/fmodex/include/fmod.h
+END
+fmod.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ifloor/!svn/ver/5/trunk/server/libs/fmodex/include/fmod.hpp
+END
+fmod_output.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ifloor/!svn/ver/5/trunk/server/libs/fmodex/include/fmod_output.h
+END
+fmodlinux.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ifloor/!svn/ver/5/trunk/server/libs/fmodex/include/fmodlinux.h
+END

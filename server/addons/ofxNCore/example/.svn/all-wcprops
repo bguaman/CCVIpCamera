@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxNCore/example
+END
+testApp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxNCore/example/testApp.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxNCore/example/main.cpp
+END
+testApp.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxNCore/example/testApp.h
+END

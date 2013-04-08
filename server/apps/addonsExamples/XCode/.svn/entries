@@ -1,0 +1,71 @@
+10
+
+dir
+6
+http://versionamiento.cti.espol.edu.ec/svn/ifloor/trunk/server/apps/addonsExamples/XCode
+http://versionamiento.cti.espol.edu.ec/svn/ifloor
+
+
+
+2011-09-21T23:27:50.771945Z
+5
+gluzardo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3ec487b4-26d1-4513-9cb8-866ed250d0d9
+
+Community Core Vision.xcodeproj
+dir
+
+Community_Core_Vision-info.plist
+file
+
+
+
+
+2011-10-04T21:17:16.589271Z
+8575684a4041426cbad2264cef064e27
+2011-09-21T23:27:50.771945Z
+5
+gluzardo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+631
+
+src
+dir
+
+bin
+dir
+

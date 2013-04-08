@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ifloor/!svn/ver/6/trunk/server/apps/addonsExamples/Codeblocks_64bit/obj/Debug/addons/ofxNetwork/src
+END
+ofxTCPManager.d
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ifloor/!svn/ver/7/trunk/server/apps/addonsExamples/Codeblocks_64bit/obj/Debug/addons/ofxNetwork/src/ofxTCPManager.d
+END
+ofxUDPManager.d
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ifloor/!svn/ver/7/trunk/server/apps/addonsExamples/Codeblocks_64bit/obj/Debug/addons/ofxNetwork/src/ofxUDPManager.d
+END
+ofxTCPClient.d
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ifloor/!svn/ver/7/trunk/server/apps/addonsExamples/Codeblocks_64bit/obj/Debug/addons/ofxNetwork/src/ofxTCPClient.d
+END
+ofxTCPServer.d
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ifloor/!svn/ver/7/trunk/server/apps/addonsExamples/Codeblocks_64bit/obj/Debug/addons/ofxNetwork/src/ofxTCPServer.d
+END

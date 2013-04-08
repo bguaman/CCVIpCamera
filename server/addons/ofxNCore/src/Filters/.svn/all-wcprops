@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ifloor/!svn/ver/6/trunk/server/addons/ofxNCore/src/Filters
+END
+ShaderProgram.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxNCore/src/Filters/ShaderProgram.cpp
+END
+CPUImageFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ifloor/!svn/ver/8/trunk/server/addons/ofxNCore/src/Filters/CPUImageFilter.cpp
+END
+ShaderProgram.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ifloor/!svn/ver/6/trunk/server/addons/ofxNCore/src/Filters/ShaderProgram.h
+END
+GPUImageFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxNCore/src/Filters/GPUImageFilter.cpp
+END
+CPUImageFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxNCore/src/Filters/CPUImageFilter.h
+END
+GPUImageFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxNCore/src/Filters/GPUImageFilter.h
+END
+ProcessFilters.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxNCore/src/Filters/ProcessFilters.h
+END
+Filters.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxNCore/src/Filters/Filters.h
+END

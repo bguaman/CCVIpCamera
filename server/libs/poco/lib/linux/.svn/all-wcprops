@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ifloor/!svn/ver/5/trunk/server/libs/poco/lib/linux
+END
+libPocoUtil.a
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ifloor/!svn/ver/12/trunk/server/libs/poco/lib/linux/libPocoUtil.a
+END
+libPocoXML.a
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ifloor/!svn/ver/12/trunk/server/libs/poco/lib/linux/libPocoXML.a
+END
+libPocoFoundation.a
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ifloor/!svn/ver/12/trunk/server/libs/poco/lib/linux/libPocoFoundation.a
+END
+libPocoNet.a
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ifloor/!svn/ver/12/trunk/server/libs/poco/lib/linux/libPocoNet.a
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ifloor/!svn/ver/5/trunk/server/libs/openFrameworks/graphics
+END
+ofTrueTypeFont.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ifloor/!svn/ver/5/trunk/server/libs/openFrameworks/graphics/ofTrueTypeFont.h
+END
+ofGraphics.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ifloor/!svn/ver/5/trunk/server/libs/openFrameworks/graphics/ofGraphics.cpp
+END
+ofTexture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ifloor/!svn/ver/5/trunk/server/libs/openFrameworks/graphics/ofTexture.cpp
+END
+ofImage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ifloor/!svn/ver/5/trunk/server/libs/openFrameworks/graphics/ofImage.cpp
+END
+ofBitmapFont.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ifloor/!svn/ver/5/trunk/server/libs/openFrameworks/graphics/ofBitmapFont.cpp
+END
+ofGraphics.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ifloor/!svn/ver/5/trunk/server/libs/openFrameworks/graphics/ofGraphics.h
+END
+ofTexture.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ifloor/!svn/ver/5/trunk/server/libs/openFrameworks/graphics/ofTexture.h
+END
+ofImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ifloor/!svn/ver/5/trunk/server/libs/openFrameworks/graphics/ofImage.h
+END
+ofBitmapFont.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ifloor/!svn/ver/5/trunk/server/libs/openFrameworks/graphics/ofBitmapFont.h
+END
+ofTrueTypeFont.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ifloor/!svn/ver/5/trunk/server/libs/openFrameworks/graphics/ofTrueTypeFont.cpp
+END

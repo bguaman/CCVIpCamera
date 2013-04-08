@@ -1,0 +1,89 @@
+10
+
+dir
+6
+http://versionamiento.cti.espol.edu.ec/svn/ifloor/trunk/server/addons/ofxNCore/src
+http://versionamiento.cti.espol.edu.ec/svn/ifloor
+
+
+
+2011-09-27T22:58:42.405303Z
+6
+gluzardo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3ec487b4-26d1-4513-9cb8-866ed250d0d9
+
+Tracking
+dir
+
+Controls
+dir
+
+Events
+dir
+
+Communication
+dir
+
+Calibration
+dir
+
+Camera
+dir
+
+Filters
+dir
+
+Modules
+dir
+
+ofxNCore.h
+file
+
+
+
+
+2011-10-04T21:17:18.229271Z
+c77953da195af47512e22d0913fefc44
+2011-09-21T23:27:50.771945Z
+5
+gluzardo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2586
+
+Templates
+dir
+

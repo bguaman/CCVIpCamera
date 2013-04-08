@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ifloor/!svn/ver/6/trunk/server/apps/addonsExamples/Codeblocks_64bit/obj/Debug/addons/ofxOpenCv/src
+END
+ofxCvFloatImage.d
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/ifloor/!svn/ver/7/trunk/server/apps/addonsExamples/Codeblocks_64bit/obj/Debug/addons/ofxOpenCv/src/ofxCvFloatImage.d
+END
+ofxCvGrayscaleImage.d
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/ifloor/!svn/ver/7/trunk/server/apps/addonsExamples/Codeblocks_64bit/obj/Debug/addons/ofxOpenCv/src/ofxCvGrayscaleImage.d
+END
+ofxCvColorImage.d
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/ifloor/!svn/ver/7/trunk/server/apps/addonsExamples/Codeblocks_64bit/obj/Debug/addons/ofxOpenCv/src/ofxCvColorImage.d
+END
+ofxCvContourFinder.d
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/ifloor/!svn/ver/7/trunk/server/apps/addonsExamples/Codeblocks_64bit/obj/Debug/addons/ofxOpenCv/src/ofxCvContourFinder.d
+END
+ofxCvImage.d
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ifloor/!svn/ver/7/trunk/server/apps/addonsExamples/Codeblocks_64bit/obj/Debug/addons/ofxOpenCv/src/ofxCvImage.d
+END
+ofxCvShortImage.d
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/ifloor/!svn/ver/7/trunk/server/apps/addonsExamples/Codeblocks_64bit/obj/Debug/addons/ofxOpenCv/src/ofxCvShortImage.d
+END

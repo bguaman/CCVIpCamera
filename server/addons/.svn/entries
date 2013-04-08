@@ -1,0 +1,169 @@
+10
+
+dir
+6
+http://versionamiento.cti.espol.edu.ec/svn/ifloor/trunk/server/addons
+http://versionamiento.cti.espol.edu.ec/svn/ifloor
+
+
+
+2011-09-27T22:58:42.405303Z
+6
+gluzardo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3ec487b4-26d1-4513-9cb8-866ed250d0d9
+
+ofxPS3
+dir
+
+ofAddons.h
+file
+
+
+
+
+2011-10-04T21:17:33.219271Z
+f739d7278097b0527c3c47a11dbaa7a5
+2011-09-21T23:27:50.771945Z
+5
+gluzardo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1567
+
+ofxNCore
+dir
+
+.project
+file
+
+
+
+
+2011-10-04T21:17:33.219271Z
+1dddfff112a39f797cd65d146d9d4d20
+2011-09-21T23:27:50.771945Z
+5
+gluzardo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2437
+
+ofxThread
+dir
+
+ofxFiducialFinder
+dir
+
+ofxDSVL
+dir
+
+ofxDirList
+dir
+
+.cproject
+file
+
+
+
+
+2011-10-04T21:17:33.219271Z
+7e3ef0bb96b9e0c11d928e65acf165b9
+2011-09-21T23:27:50.771945Z
+5
+gluzardo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+143922
+
+ofxVectorMath
+dir
+
+ofxXmlSettings
+dir
+
+ofxVectorGraphics
+dir
+
+ofxOsc
+dir
+
+ofxNetwork
+dir
+
+ofxOpenCv
+dir
+
+ofxFFMV
+dir
+

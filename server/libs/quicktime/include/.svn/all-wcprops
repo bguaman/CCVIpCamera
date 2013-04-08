@@ -1,0 +1,1691 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include
+END
+PPCToolbox.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/PPCToolbox.h
+END
+MacMemory.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/MacMemory.h
+END
+Printing.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/Printing.h
+END
+Debugging.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/Debugging.h
+END
+TSMTE.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/TSMTE.h
+END
+IntlResources.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/IntlResources.h
+END
+QD3DPick.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/QD3DPick.h
+END
+Events.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/Events.h
+END
+Video.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/Video.h
+END
+Speech.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/Speech.h
+END
+CFStringEncodingExt.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/CFStringEncodingExt.h
+END
+FileTransfers.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/FileTransfers.h
+END
+CFURL.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/CFURL.h
+END
+QTML.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/QTML.h
+END
+Packages.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/Packages.h
+END
+UnicodeConverter.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/UnicodeConverter.h
+END
+Aliases.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/Aliases.h
+END
+OSA.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/OSA.h
+END
+ColorPickerComponents.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/ColorPickerComponents.h
+END
+Dialogs.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/Dialogs.h
+END
+GXFonts.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/GXFonts.h
+END
+FileTypesAndCreators.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/FileTypesAndCreators.h
+END
+QD3D.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/QD3D.h
+END
+ScalerTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/ScalerTypes.h
+END
+DeskBus.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/DeskBus.h
+END
+DeviceControl.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/DeviceControl.h
+END
+FinderRegistry.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/FinderRegistry.h
+END
+PLStringFuncs.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/PLStringFuncs.h
+END
+CFNumber.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/CFNumber.h
+END
+RAVESystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/RAVESystem.h
+END
+Math64.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/Math64.h
+END
+HyperXCmd.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/HyperXCmd.h
+END
+QuickTimeVR.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/QuickTimeVR.h
+END
+TextUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/TextUtils.h
+END
+QD3DSet.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/QD3DSet.h
+END
+SpeechRecognition.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/SpeechRecognition.h
+END
+OCEStandardDirectory.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/OCEStandardDirectory.h
+END
+ColorPicker.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/ColorPicker.h
+END
+Collections.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/Collections.h
+END
+Serial.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/Serial.h
+END
+ASDebugging.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/ASDebugging.h
+END
+DriverGestalt.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/DriverGestalt.h
+END
+CFData.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/CFData.h
+END
+GXPrinting.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/GXPrinting.h
+END
+SCSI.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/SCSI.h
+END
+NetSprocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/NetSprocket.h
+END
+Movies.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/Movies.h
+END
+GXTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/GXTypes.h
+END
+AIFF.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/AIFF.h
+END
+AGP.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/AGP.h
+END
+ATSTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/ATSTypes.h
+END
+ControlDefinitions.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/ControlDefinitions.h
+END
+CFDictionary.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/CFDictionary.h
+END
+QD3DRenderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/QD3DRenderer.h
+END
+AppleScript.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/AppleScript.h
+END
+QTContentRestrictions.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/QTContentRestrictions.h
+END
+Quickdraw.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/Quickdraw.h
+END
+HFSVolumes.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/HFSVolumes.h
+END
+NSL.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/NSL.h
+END
+ASRegistry.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/ASRegistry.h
+END
+MacErrors.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/MacErrors.h
+END
+ADSPSecure.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/ADSPSecure.h
+END
+Endian.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/Endian.h
+END
+DriverServices.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/DriverServices.h
+END
+LowMem.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/LowMem.h
+END
+QuickTimeComponents.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/QuickTimeComponents.h
+END
+Script.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/Script.h
+END
+QD3DCamera.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/QD3DCamera.h
+END
+CFSet.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/CFSet.h
+END
+ShutDown.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/ShutDown.h
+END
+Icons.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/Icons.h
+END
+StringCompare.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/StringCompare.h
+END
+OCETemplates.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/OCETemplates.h
+END
+Notification.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/Notification.h
+END
+LanguageAnalysis.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/LanguageAnalysis.h
+END
+TextEdit.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/TextEdit.h
+END
+ENET.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/ENET.h
+END
+QuickdrawText.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/QuickdrawText.h
+END
+CFTimeZone.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/CFTimeZone.h
+END
+QD3DAcceleration.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/QD3DAcceleration.h
+END
+FileTransferTools.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/FileTransferTools.h
+END
+DriverFamilyMatching.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/DriverFamilyMatching.h
+END
+NameRegistry.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/NameRegistry.h
+END
+ScalerStreamTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/ScalerStreamTypes.h
+END
+PCI.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/PCI.h
+END
+MoviesFormat.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/MoviesFormat.h
+END
+GXLayout.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/GXLayout.h
+END
+QD3DViewer.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/QD3DViewer.h
+END
+QD3DDrawContext.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/QD3DDrawContext.h
+END
+Interrupts.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/Interrupts.h
+END
+PictUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/PictUtils.h
+END
+CFBundle.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/CFBundle.h
+END
+Retrace.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/Retrace.h
+END
+FSM.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/FSM.h
+END
+OpenTransportProtocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/OpenTransportProtocol.h
+END
+MediaHandlers.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/MediaHandlers.h
+END
+AEUserTermTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/AEUserTermTypes.h
+END
+OSUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/OSUtils.h
+END
+AVLTree.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/AVLTree.h
+END
+OCEMessaging.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/OCEMessaging.h
+END
+MovieManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/MovieManager.h
+END
+InputSprocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/InputSprocket.h
+END
+VideoServices.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/VideoServices.h
+END
+QD3DStyle.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/QD3DStyle.h
+END
+CMPRComponent.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/CMPRComponent.h
+END
+DatabaseAccess.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/DatabaseAccess.h
+END
+CFArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/CFArray.h
+END
+Sound.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/Sound.h
+END
+GXMath.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/GXMath.h
+END
+PCCard.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/PCCard.h
+END
+RAVE.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/RAVE.h
+END
+CFURLAccess.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/CFURLAccess.h
+END
+TextCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/TextCommon.h
+END
+Lists.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/Lists.h
+END
+QD3DController.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/QD3DController.h
+END
+SoundInput.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/SoundInput.h
+END
+ATSLayoutTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/ATSLayoutTypes.h
+END
+AERegistry.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/AERegistry.h
+END
+DiskInit.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/DiskInit.h
+END
+OpenTransportKernel.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/OpenTransportKernel.h
+END
+QD3DStorage.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/QD3DStorage.h
+END
+QD3DIO.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/QD3DIO.h
+END
+Menus.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/Menus.h
+END
+DriverSupport.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/DriverSupport.h
+END
+PCCardTuples.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/PCCardTuples.h
+END
+CarbonEvents.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/CarbonEvents.h
+END
+CryptoMessageSyntax.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/CryptoMessageSyntax.h
+END
+SFNTTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/SFNTTypes.h
+END
+OCEErrors.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/OCEErrors.h
+END
+FontSync.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/FontSync.h
+END
+MachineExceptions.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/MachineExceptions.h
+END
+AEPackObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/AEPackObject.h
+END
+ConnectionTools.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/ConnectionTools.h
+END
+SpeechSynthesis.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/SpeechSynthesis.h
+END
+CodeFragments.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/CodeFragments.h
+END
+GXPrinterDrivers.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/GXPrinterDrivers.h
+END
+OpenTransportUNIX.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/OpenTransportUNIX.h
+END
+Connections.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/Connections.h
+END
+MacTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/MacTypes.h
+END
+QD3DExtension.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/QD3DExtension.h
+END
+FileSigning.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/FileSigning.h
+END
+Translation.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/Translation.h
+END
+fenv.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/fenv.h
+END
+QDOffscreen.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/QDOffscreen.h
+END
+Appearance.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/Appearance.h
+END
+StandardFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/StandardFile.h
+END
+FixMath.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/FixMath.h
+END
+CFBag.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/CFBag.h
+END
+Files.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/Files.h
+END
+LocationManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/LocationManager.h
+END
+IsochronousDataHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/IsochronousDataHandler.h
+END
+QTStreamingComponents.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/QTStreamingComponents.h
+END
+OCE.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/OCE.h
+END
+GXMessages.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/GXMessages.h
+END
+CFPlugIn.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/CFPlugIn.h
+END
+OCEMail.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/OCEMail.h
+END
+MacHelp.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/MacHelp.h
+END
+OpenTransportProviders.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/OpenTransportProviders.h
+END
+CFString.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/CFString.h
+END
+QD3DShader.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/QD3DShader.h
+END
+QD3DCustomElements.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/QD3DCustomElements.h
+END
+TextEncodingConverter.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/TextEncodingConverter.h
+END
+OCEAuthDir.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/OCEAuthDir.h
+END
+QD3DWinViewer.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/QD3DWinViewer.h
+END
+CMScriptingPlugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/CMScriptingPlugin.h
+END
+CMCalibrator.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/CMCalibrator.h
+END
+CTBUtilities.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/CTBUtilities.h
+END
+Balloons.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/Balloons.h
+END
+QuickTimeVRFormat.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/QuickTimeVRFormat.h
+END
+AVComponents.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/AVComponents.h
+END
+Editions.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/Editions.h
+END
+Kernel.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/Kernel.h
+END
+CMApplication.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/CMApplication.h
+END
+CRMSerialDevices.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/CRMSerialDevices.h
+END
+IAExtractor.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/IAExtractor.h
+END
+CFDate.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/CFDate.h
+END
+Unicode.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/Unicode.h
+END
+ADSP.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/ADSP.h
+END
+Strings.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/Strings.h
+END
+OCEStandardMail.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/OCEStandardMail.h
+END
+TerminalTools.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/TerminalTools.h
+END
+Terminals.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/Terminals.h
+END
+Controls.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/Controls.h
+END
+Gestalt.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/Gestalt.h
+END
+QD3DGeometry.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/QD3DGeometry.h
+END
+Disks.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/Disks.h
+END
+CMComponent.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/CMComponent.h
+END
+QD3DTransform.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/QD3DTransform.h
+END
+Multiprocessing.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/Multiprocessing.h
+END
+EPPC.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/EPPC.h
+END
+CMConversions.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/CMConversions.h
+END
+Start.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/Start.h
+END
+ToolUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/ToolUtils.h
+END
+CMICCProfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/CMICCProfile.h
+END
+OSAComp.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/OSAComp.h
+END
+ATA.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/ATA.h
+END
+fp.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/fp.h
+END
+MacTCP.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/MacTCP.h
+END
+DrawSprocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/DrawSprocket.h
+END
+Resources.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/Resources.h
+END
+CFPreferences.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/CFPreferences.h
+END
+GXErrors.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/GXErrors.h
+END
+DateTimeUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/DateTimeUtils.h
+END
+Drag.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/Drag.h
+END
+ImageCodec.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/ImageCodec.h
+END
+CFCharacterSet.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/CFCharacterSet.h
+END
+UnicodeUtilities.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/UnicodeUtilities.h
+END
+JManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/JManager.h
+END
+URLAccess.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/URLAccess.h
+END
+Patches.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/Patches.h
+END
+Fonts.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/Fonts.h
+END
+Threads.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/Threads.h
+END
+SocketServices.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/SocketServices.h
+END
+CMMComponent.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/CMMComponent.h
+END
+DigitalSignature.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/DigitalSignature.h
+END
+HID.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/HID.h
+END
+FindByContent.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/FindByContent.h
+END
+QD3DGroup.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/QD3DGroup.h
+END
+NetworkSetup.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/NetworkSetup.h
+END
+MacWindows.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/MacWindows.h
+END
+UTCUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/UTCUtils.h
+END
+WorldScript.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/WorldScript.h
+END
+CardServices.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/CardServices.h
+END
+AppleTalk.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/AppleTalk.h
+END
+OSAGeneric.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/OSAGeneric.h
+END
+AppleGuide.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/AppleGuide.h
+END
+CoreFoundation.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/CoreFoundation.h
+END
+CFBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/CFBase.h
+END
+QD3DView.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/QD3DView.h
+END
+TextServices.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/TextServices.h
+END
+CFPropertyList.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/CFPropertyList.h
+END
+Power.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/Power.h
+END
+SFNTLayoutTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/SFNTLayoutTypes.h
+END
+SoundComponents.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/SoundComponents.h
+END
+ROMDefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/ROMDefs.h
+END
+Navigation.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/Navigation.h
+END
+AEObjects.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/AEObjects.h
+END
+AEDataModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/AEDataModel.h
+END
+SoundSprocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/SoundSprocket.h
+END
+GXEnvironment.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/GXEnvironment.h
+END
+ImageCompression.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/ImageCompression.h
+END
+Processes.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/Processes.h
+END
+Telephones.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/Telephones.h
+END
+ConditionalMacros.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/ConditionalMacros.h
+END
+CMAcceleration.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/CMAcceleration.h
+END
+DriverSynchronization.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/DriverSynchronization.h
+END
+NSLUtility.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/NSLUtility.h
+END
+CursorDevices.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/CursorDevices.h
+END
+Devices.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/Devices.h
+END
+QD3DLight.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/QD3DLight.h
+END
+NumberFormatting.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/NumberFormatting.h
+END
+QD3DErrors.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/QD3DErrors.h
+END
+QuickTimeMusic.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/QuickTimeMusic.h
+END
+Folders.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/Folders.h
+END
+ControlStrip.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/ControlStrip.h
+END
+HTMLRendering.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/HTMLRendering.h
+END
+QD3DMath.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/QD3DMath.h
+END
+QTSMovie.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/QTSMovie.h
+END
+Finder.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/Finder.h
+END
+Scrap.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/Scrap.h
+END
+Timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/Timer.h
+END
+MIDI.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/MIDI.h
+END
+Displays.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/Displays.h
+END
+Traps.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/Traps.h
+END
+ATSUnicode.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/ATSUnicode.h
+END
+GXGraphics.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/GXGraphics.h
+END
+Slots.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/Slots.h
+END
+PCCardEnablerPlugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/PCCardEnablerPlugin.h
+END
+QuickTimeStreaming.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/QuickTimeStreaming.h
+END
+Dictionary.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/Dictionary.h
+END
+MixedMode.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/MixedMode.h
+END
+PCCardAdapterPlugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/PCCardAdapterPlugin.h
+END
+SegLoad.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/SegLoad.h
+END
+TranslationExtensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/TranslationExtensions.h
+END
+Palettes.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/Palettes.h
+END
+QD3DString.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/QD3DString.h
+END
+ZoomedVideo.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/ZoomedVideo.h
+END
+Components.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/Components.h
+END
+CommResources.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/CommResources.h
+END
+AppleEvents.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/AppleEvents.h
+END
+PEFBinaryFormat.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ifloor/!svn/ver/5/trunk/server/libs/quicktime/include/PEFBinaryFormat.h
+END

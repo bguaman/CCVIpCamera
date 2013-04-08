@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ifloor/!svn/ver/5/trunk/server/scripts/linux
+END
+buildAllExamples.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ifloor/!svn/ver/5/trunk/server/scripts/linux/buildAllExamples.sh
+END
+enableRunOnBuild.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ifloor/!svn/ver/5/trunk/server/scripts/linux/enableRunOnBuild.sh
+END
+cleanAllExamples.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ifloor/!svn/ver/5/trunk/server/scripts/linux/cleanAllExamples.sh
+END
+disableOpenTargetDir.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ifloor/!svn/ver/5/trunk/server/scripts/linux/disableOpenTargetDir.sh
+END
+buildAllAddonExamples.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ifloor/!svn/ver/5/trunk/server/scripts/linux/buildAllAddonExamples.sh
+END
+enableOpenTargetDir.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ifloor/!svn/ver/5/trunk/server/scripts/linux/enableOpenTargetDir.sh
+END
+cleanAllAddonExamples.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ifloor/!svn/ver/5/trunk/server/scripts/linux/cleanAllAddonExamples.sh
+END
+disableRunOnBuild.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ifloor/!svn/ver/5/trunk/server/scripts/linux/disableRunOnBuild.sh
+END

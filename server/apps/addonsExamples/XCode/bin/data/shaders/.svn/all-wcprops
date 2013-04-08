@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ifloor/!svn/ver/5/trunk/server/apps/addonsExamples/XCode/bin/data/shaders
+END
+blobDetector.fs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ifloor/!svn/ver/5/trunk/server/apps/addonsExamples/XCode/bin/data/shaders/blobDetector.fs
+END
+gaussV.fs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ifloor/!svn/ver/5/trunk/server/apps/addonsExamples/XCode/bin/data/shaders/gaussV.fs
+END
+copy.fs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ifloor/!svn/ver/5/trunk/server/apps/addonsExamples/XCode/bin/data/shaders/copy.fs
+END
+gaussH.fs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ifloor/!svn/ver/5/trunk/server/apps/addonsExamples/XCode/bin/data/shaders/gaussH.fs
+END
+grayScale.fs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ifloor/!svn/ver/5/trunk/server/apps/addonsExamples/XCode/bin/data/shaders/grayScale.fs
+END
+blobExtractor.gs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ifloor/!svn/ver/5/trunk/server/apps/addonsExamples/XCode/bin/data/shaders/blobExtractor.gs
+END
+inverse.fs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ifloor/!svn/ver/5/trunk/server/apps/addonsExamples/XCode/bin/data/shaders/inverse.fs
+END
+threshold.fs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ifloor/!svn/ver/5/trunk/server/apps/addonsExamples/XCode/bin/data/shaders/threshold.fs
+END
+absSubtract.fs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ifloor/!svn/ver/5/trunk/server/apps/addonsExamples/XCode/bin/data/shaders/absSubtract.fs
+END
+contrast.fs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ifloor/!svn/ver/5/trunk/server/apps/addonsExamples/XCode/bin/data/shaders/contrast.fs
+END
+minimal.vs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ifloor/!svn/ver/5/trunk/server/apps/addonsExamples/XCode/bin/data/shaders/minimal.vs
+END
+subtract.fs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ifloor/!svn/ver/5/trunk/server/apps/addonsExamples/XCode/bin/data/shaders/subtract.fs
+END

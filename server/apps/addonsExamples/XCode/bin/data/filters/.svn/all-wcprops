@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ifloor/!svn/ver/5/trunk/server/apps/addonsExamples/XCode/bin/data/filters
+END
+gauss.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ifloor/!svn/ver/5/trunk/server/apps/addonsExamples/XCode/bin/data/filters/gauss.xml
+END
+gauss2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ifloor/!svn/ver/5/trunk/server/apps/addonsExamples/XCode/bin/data/filters/gauss2.xml
+END
+subtract.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ifloor/!svn/ver/5/trunk/server/apps/addonsExamples/XCode/bin/data/filters/subtract.xml
+END
+gaussV.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ifloor/!svn/ver/5/trunk/server/apps/addonsExamples/XCode/bin/data/filters/gaussV.xml
+END
+blobExtractor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ifloor/!svn/ver/5/trunk/server/apps/addonsExamples/XCode/bin/data/filters/blobExtractor.xml
+END
+copy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ifloor/!svn/ver/5/trunk/server/apps/addonsExamples/XCode/bin/data/filters/copy.xml
+END
+gaussV2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ifloor/!svn/ver/5/trunk/server/apps/addonsExamples/XCode/bin/data/filters/gaussV2.xml
+END
+grayScale.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ifloor/!svn/ver/5/trunk/server/apps/addonsExamples/XCode/bin/data/filters/grayScale.xml
+END
+threshold.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ifloor/!svn/ver/5/trunk/server/apps/addonsExamples/XCode/bin/data/filters/threshold.xml
+END
+absSubtract.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ifloor/!svn/ver/5/trunk/server/apps/addonsExamples/XCode/bin/data/filters/absSubtract.xml
+END
+contrast.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ifloor/!svn/ver/5/trunk/server/apps/addonsExamples/XCode/bin/data/filters/contrast.xml
+END

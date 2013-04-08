@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxNetwork/src
+END
+ofxTCPManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxNetwork/src/ofxTCPManager.cpp
+END
+ofxTCPServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxNetwork/src/ofxTCPServer.h
+END
+ofxUDPManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxNetwork/src/ofxUDPManager.cpp
+END
+ofxTCPClient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxNetwork/src/ofxTCPClient.cpp
+END
+ofxTCPManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxNetwork/src/ofxTCPManager.h
+END
+ofxUDPManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxNetwork/src/ofxUDPManager.h
+END
+ofxTCPClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxNetwork/src/ofxTCPClient.h
+END
+ofxTCPServer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxNetwork/src/ofxTCPServer.cpp
+END
+ofxNetwork.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxNetwork/src/ofxNetwork.h
+END
+ofxNetworkUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxNetwork/src/ofxNetworkUtils.h
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ifloor/!svn/ver/5/trunk/server/apps/addonsExamples/VS2008/src
+END
+testApp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ifloor/!svn/ver/5/trunk/server/apps/addonsExamples/VS2008/src/testApp.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ifloor/!svn/ver/5/trunk/server/apps/addonsExamples/VS2008/src/main.cpp
+END
+testApp.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ifloor/!svn/ver/5/trunk/server/apps/addonsExamples/VS2008/src/testApp.h
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ifloor/!svn/ver/6/trunk/server/apps/addonsExamples/Codeblocks_64bit/obj/Debug/addons/ofxNCore/src/Filters
+END
+ShaderProgram.d
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/ifloor/!svn/ver/7/trunk/server/apps/addonsExamples/Codeblocks_64bit/obj/Debug/addons/ofxNCore/src/Filters/ShaderProgram.d
+END
+CPUImageFilter.d
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/ifloor/!svn/ver/7/trunk/server/apps/addonsExamples/Codeblocks_64bit/obj/Debug/addons/ofxNCore/src/Filters/CPUImageFilter.d
+END
+GPUImageFilter.d
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/ifloor/!svn/ver/7/trunk/server/apps/addonsExamples/Codeblocks_64bit/obj/Debug/addons/ofxNCore/src/Filters/GPUImageFilter.d
+END

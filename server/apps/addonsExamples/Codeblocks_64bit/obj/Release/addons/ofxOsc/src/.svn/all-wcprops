@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ifloor/!svn/ver/5/trunk/server/apps/addonsExamples/Codeblocks_64bit/obj/Release/addons/ofxOsc/src
+END
+ofxOscSender.d
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/ifloor/!svn/ver/7/trunk/server/apps/addonsExamples/Codeblocks_64bit/obj/Release/addons/ofxOsc/src/ofxOscSender.d
+END
+ofxOscMessage.d
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ifloor/!svn/ver/7/trunk/server/apps/addonsExamples/Codeblocks_64bit/obj/Release/addons/ofxOsc/src/ofxOscMessage.d
+END
+ofxOscReceiver.d
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ifloor/!svn/ver/7/trunk/server/apps/addonsExamples/Codeblocks_64bit/obj/Release/addons/ofxOsc/src/ofxOscReceiver.d
+END
+ofxOscBundle.d
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/ifloor/!svn/ver/7/trunk/server/apps/addonsExamples/Codeblocks_64bit/obj/Release/addons/ofxOsc/src/ofxOscBundle.d
+END

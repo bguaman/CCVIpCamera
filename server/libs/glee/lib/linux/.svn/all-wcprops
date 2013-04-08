@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ifloor/!svn/ver/5/trunk/server/libs/glee/lib/linux
+END
+libGLee.a
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ifloor/!svn/ver/13/trunk/server/libs/glee/lib/linux/libGLee.a
+END
+extensionList.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ifloor/!svn/ver/5/trunk/server/libs/glee/lib/linux/extensionList.txt
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ifloor/!svn/ver/5/trunk/server/libs/glee/lib/linux/readme.txt
+END
+GLee.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ifloor/!svn/ver/5/trunk/server/libs/glee/lib/linux/GLee.c
+END

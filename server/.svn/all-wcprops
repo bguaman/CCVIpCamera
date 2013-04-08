@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/ifloor/!svn/ver/6/trunk/server
+END
+readme.osx
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/ifloor/!svn/ver/5/trunk/server/readme.osx
+END
+readme.linux
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ifloor/!svn/ver/5/trunk/server/readme.linux
+END
+readme.win_cb
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ifloor/!svn/ver/5/trunk/server/readme.win_cb
+END
+readme.vs2008
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ifloor/!svn/ver/5/trunk/server/readme.vs2008
+END

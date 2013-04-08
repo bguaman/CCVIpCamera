@@ -1,0 +1,138 @@
+10
+
+dir
+6
+http://versionamiento.cti.espol.edu.ec/svn/ifloor/trunk/server/libs
+http://versionamiento.cti.espol.edu.ec/svn/ifloor
+
+
+
+2011-09-27T22:58:42.405303Z
+6
+gluzardo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3ec487b4-26d1-4513-9cb8-866ed250d0d9
+
+openFrameworksCompiled
+dir
+
+unicap
+dir
+
+_Licence.txt
+file
+
+
+
+
+2011-04-27T16:04:43.000000Z
+41f1ed7cdc629b7b2a0d4b01b8b5ee0f
+2011-09-21T23:27:50.771945Z
+5
+gluzardo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1817
+
+fmodex
+dir
+
+freetype
+dir
+
+gstappsink
+dir
+
+.project
+file
+
+
+
+
+2011-10-04T21:18:05.269271Z
+90342f00c1b0e951bc65de79af288a13
+2011-09-21T23:27:50.771945Z
+5
+gluzardo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+199
+
+FreeImage
+dir
+
+videoInput
+dir
+
+glu
+dir
+
+quicktime
+dir
+
+poco
+dir
+
+openFrameworks
+dir
+
+rtAudio
+dir
+
+glut
+dir
+
+glee
+dir
+

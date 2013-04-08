@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxVectorMath/src
+END
+ofxVectorMath.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxVectorMath/src/ofxVectorMath.h
+END
+ofxMatrix3x3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxVectorMath/src/ofxMatrix3x3.cpp
+END
+ofxMatrix4x4.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxVectorMath/src/ofxMatrix4x4.cpp
+END
+ofxQuaternion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxVectorMath/src/ofxQuaternion.cpp
+END
+ofxPoint2f.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxVectorMath/src/ofxPoint2f.h
+END
+ofxMatrix3x3.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxVectorMath/src/ofxMatrix3x3.h
+END
+ofxPoint3f.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxVectorMath/src/ofxPoint3f.h
+END
+ofxPoint4f.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxVectorMath/src/ofxPoint4f.h
+END
+ofxMatrix4x4.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxVectorMath/src/ofxMatrix4x4.h
+END
+ofxQuaternion.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxVectorMath/src/ofxQuaternion.h
+END
+ofxVec2f.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxVectorMath/src/ofxVec2f.h
+END
+ofxVec3f.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxVectorMath/src/ofxVec3f.h
+END
+ofxVec4f.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ifloor/!svn/ver/5/trunk/server/addons/ofxVectorMath/src/ofxVec4f.h
+END

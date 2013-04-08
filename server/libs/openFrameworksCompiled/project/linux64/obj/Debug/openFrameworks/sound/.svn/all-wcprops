@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ifloor/!svn/ver/5/trunk/server/libs/openFrameworksCompiled/project/linux64/obj/Debug/openFrameworks/sound
+END
+ofSoundStream.d
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/ifloor/!svn/ver/5/trunk/server/libs/openFrameworksCompiled/project/linux64/obj/Debug/openFrameworks/sound/ofSoundStream.d
+END
+ofSoundPlayer.d
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/ifloor/!svn/ver/5/trunk/server/libs/openFrameworksCompiled/project/linux64/obj/Debug/openFrameworks/sound/ofSoundPlayer.d
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/ifloor/!svn/ver/5/trunk/server/scripts/osx
+END
+buildAndRunAllAddonsExamples.sh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ifloor/!svn/ver/5/trunk/server/scripts/osx/buildAndRunAllAddonsExamples.sh
+END
+buildAndRunAllExamples.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ifloor/!svn/ver/5/trunk/server/scripts/osx/buildAndRunAllExamples.sh
+END

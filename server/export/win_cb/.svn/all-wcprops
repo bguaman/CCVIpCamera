@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ifloor/!svn/ver/5/trunk/server/export/win_cb
+END
+FreeType-6.dll
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ifloor/!svn/ver/5/trunk/server/export/win_cb/FreeType-6.dll
+END
+glut.dll
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ifloor/!svn/ver/5/trunk/server/export/win_cb/glut.dll
+END
+qtmlClient.dll
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ifloor/!svn/ver/5/trunk/server/export/win_cb/qtmlClient.dll
+END
+zlib1.dll
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ifloor/!svn/ver/5/trunk/server/export/win_cb/zlib1.dll
+END
+fmodex.dll
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ifloor/!svn/ver/5/trunk/server/export/win_cb/fmodex.dll
+END
+FreeImage.dll
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ifloor/!svn/ver/5/trunk/server/export/win_cb/FreeImage.dll
+END

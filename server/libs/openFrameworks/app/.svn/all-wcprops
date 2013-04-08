@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ifloor/!svn/ver/5/trunk/server/libs/openFrameworks/app
+END
+ofAppGlutWindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ifloor/!svn/ver/5/trunk/server/libs/openFrameworks/app/ofAppGlutWindow.h
+END
+ofAppRunner.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ifloor/!svn/ver/5/trunk/server/libs/openFrameworks/app/ofAppRunner.cpp
+END
+ofAppRunner.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ifloor/!svn/ver/5/trunk/server/libs/openFrameworks/app/ofAppRunner.h
+END
+ofBaseApp.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ifloor/!svn/ver/5/trunk/server/libs/openFrameworks/app/ofBaseApp.h
+END
+ofAppGlutWindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ifloor/!svn/ver/5/trunk/server/libs/openFrameworks/app/ofAppGlutWindow.cpp
+END
+ofAppBaseWindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ifloor/!svn/ver/5/trunk/server/libs/openFrameworks/app/ofAppBaseWindow.h
+END

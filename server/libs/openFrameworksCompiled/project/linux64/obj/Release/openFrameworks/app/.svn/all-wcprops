@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ifloor/!svn/ver/5/trunk/server/libs/openFrameworksCompiled/project/linux64/obj/Release/openFrameworks/app
+END
+ofAppRunner.d
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/ifloor/!svn/ver/5/trunk/server/libs/openFrameworksCompiled/project/linux64/obj/Release/openFrameworks/app/ofAppRunner.d
+END
+ofAppGlutWindow.d
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/ifloor/!svn/ver/5/trunk/server/libs/openFrameworksCompiled/project/linux64/obj/Release/openFrameworks/app/ofAppGlutWindow.d
+END

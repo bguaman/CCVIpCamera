@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ifloor/!svn/ver/5/trunk/server/libs/unicap/include
+END
+unicapgtk_device_selection.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ifloor/!svn/ver/5/trunk/server/libs/unicap/include/unicapgtk_device_selection.h
+END
+unicapgtk_version.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ifloor/!svn/ver/5/trunk/server/libs/unicap/include/unicapgtk_version.h
+END
+ucil.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ifloor/!svn/ver/5/trunk/server/libs/unicap/include/ucil.h
+END
+ucil_alsa.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ifloor/!svn/ver/5/trunk/server/libs/unicap/include/ucil_alsa.h
+END
+unicap.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ifloor/!svn/ver/5/trunk/server/libs/unicap/include/unicap.h
+END
+ucil_png.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ifloor/!svn/ver/5/trunk/server/libs/unicap/include/ucil_png.h
+END
+unicapgtk_video_display.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ifloor/!svn/ver/5/trunk/server/libs/unicap/include/unicapgtk_video_display.h
+END
+ucil_version.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ifloor/!svn/ver/5/trunk/server/libs/unicap/include/ucil_version.h
+END
+unicap_status.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ifloor/!svn/ver/5/trunk/server/libs/unicap/include/unicap_status.h
+END
+unicap_version.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ifloor/!svn/ver/5/trunk/server/libs/unicap/include/unicap_version.h
+END
+unicapgtk.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ifloor/!svn/ver/5/trunk/server/libs/unicap/include/unicapgtk.h
+END
+unicapgtk_device_property.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ifloor/!svn/ver/5/trunk/server/libs/unicap/include/unicapgtk_device_property.h
+END
+unicapgtk_property_dialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ifloor/!svn/ver/5/trunk/server/libs/unicap/include/unicapgtk_property_dialog.h
+END
+unicapgtk_video_format_selection.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ifloor/!svn/ver/5/trunk/server/libs/unicap/include/unicapgtk_video_format_selection.h
+END

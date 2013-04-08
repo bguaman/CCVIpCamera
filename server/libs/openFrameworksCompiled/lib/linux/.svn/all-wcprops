@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ifloor/!svn/ver/5/trunk/server/libs/openFrameworksCompiled/lib/linux
+END
+libopenFrameworksDebug.a
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ifloor/!svn/ver/12/trunk/server/libs/openFrameworksCompiled/lib/linux/libopenFrameworksDebug.a
+END
+libopenFrameworks.a
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ifloor/!svn/ver/12/trunk/server/libs/openFrameworksCompiled/lib/linux/libopenFrameworks.a
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ifloor/!svn/ver/6/trunk/server/libs/openFrameworks/utils
+END
+ofMath.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ifloor/!svn/ver/5/trunk/server/libs/openFrameworks/utils/ofMath.cpp
+END
+ofTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ifloor/!svn/ver/5/trunk/server/libs/openFrameworks/utils/ofTypes.h
+END
+ofMath.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ifloor/!svn/ver/5/trunk/server/libs/openFrameworks/utils/ofMath.h
+END
+ofUtils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ifloor/!svn/ver/5/trunk/server/libs/openFrameworks/utils/ofUtils.cpp
+END
+ofConstants.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ifloor/!svn/ver/7/trunk/server/libs/openFrameworks/utils/ofConstants.h
+END
+ofNoise.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ifloor/!svn/ver/5/trunk/server/libs/openFrameworks/utils/ofNoise.h
+END
+ofUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ifloor/!svn/ver/5/trunk/server/libs/openFrameworks/utils/ofUtils.h
+END
