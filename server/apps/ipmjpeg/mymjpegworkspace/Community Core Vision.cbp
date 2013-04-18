@@ -5,7 +5,7 @@
 		<Option title="Community_Core_Vision" />
 		<Option pch_mode="2" />
 		<Option compiler="gcc" />
-		<Option virtualFolders="addons/;src/;addons/ofxMjpeg/;addons/ofxThread/;" />
+		<Option virtualFolders="addons/;src/;addons/ofxThread/;addons/ofxMjpeg/;" />
 		<Build>
 			<Script file="lib_finder.script" />
 			<Target title="Debug">
@@ -62,6 +62,7 @@
 			<Add directory="../../../libs/openFrameworks/sound" />
 			<Add directory="../../../addons/ofxThread/src/" />
 			<Add directory="../../../addons/ofxMjpeg/src" />
+			<Add directory="../../../libs/fmodex/include" />
 		</Compiler>
 		<Linker>
 			<Add library="fmodex" />

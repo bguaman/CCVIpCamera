@@ -14420,7 +14420,7 @@
 	"ofxNCoreVision.h"
 	"../Controls/gui.h"
 
-1366315768 /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Modules/ofxNCoreVision.h
+1366317031 /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Modules/ofxNCoreVision.h
 	"ofMain.h"
 	"ofxffmv.h"
 	"ofxPS3.h"
@@ -14434,6 +14434,7 @@
 	"ofxXmlSettings.h"
 	"ofxFiducialTracker.h"
 	"ofxNCore.h"
+	"ofxMJPEG.h"
 
 1366315768 /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/ofxNCore.h
 	"Events/TouchMessenger.h"
@@ -14617,4 +14618,148 @@
 	"testApp.h"
 	"stdio.h"
 	"ofUtils.h"
+
+1366232615 /opt/Projectos/CCVIpCamera/server/addons/ofxMjpeg/src/ofxMJPEG.h
+	"ofxMJPEGClient.h"
+
+1366298054 /opt/Projectos/CCVIpCamera/server/addons/ofxMjpeg/src/ofxMJPEGClient.h
+	"ofMain.h"
+	"Poco/Net/HTTPClientSession.h"
+	"ofxMJPEGReader.h"
+	"ofxMJPEGConverter.h"
+	"ofxMJPEGImage.h"
+
+1366315785 /opt/Projectos/CCVIpCamera/server/libs/poco/include/Poco/Net/HTTPClientSession.h
+	"Poco/Net/Net.h"
+	"Poco/Net/HTTPSession.h"
+	"Poco/Net/SocketAddress.h"
+	<istream>
+	<ostream>
+
+1366315785 /opt/Projectos/CCVIpCamera/server/libs/poco/include/Poco/Net/Net.h
+	"Poco/Foundation.h"
+
+1366315785 /opt/Projectos/CCVIpCamera/server/libs/poco/include/Poco/Net/HTTPSession.h
+	"Poco/Net/Net.h"
+	"Poco/Net/StreamSocket.h"
+	"Poco/Timespan.h"
+	"Poco/Exception.h"
+	<ios>
+
+1366315785 /opt/Projectos/CCVIpCamera/server/libs/poco/include/Poco/Net/StreamSocket.h
+	"Poco/Net/Net.h"
+	"Poco/Net/Socket.h"
+
+1366315785 /opt/Projectos/CCVIpCamera/server/libs/poco/include/Poco/Net/Socket.h
+	"Poco/Net/Net.h"
+	"Poco/Net/SocketImpl.h"
+	<vector>
+
+1366315785 /opt/Projectos/CCVIpCamera/server/libs/poco/include/Poco/Net/SocketImpl.h
+	"Poco/Net/Net.h"
+	"Poco/Net/SocketDefs.h"
+	"Poco/Net/SocketAddress.h"
+	"Poco/RefCountedObject.h"
+	"Poco/Timespan.h"
+
+1366315785 /opt/Projectos/CCVIpCamera/server/libs/poco/include/Poco/Net/SocketDefs.h
+	"Poco/UnWindows.h"
+	<winsock2.h>
+	<ws2tcpip.h>
+	<unistd.h>
+	<errno.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/select.h>
+	<sys/ioctl.h>
+	<inet.h>
+	<arpa/inet.h>
+	<netinet/in.h>
+	<netinet/tcp.h>
+	<netdb.h>
+	<net/if.h>
+	<sys/sockio.h>
+	<sys/filio.h>
+
+1366315785 /opt/Projectos/CCVIpCamera/server/libs/poco/include/Poco/Net/SocketAddress.h
+	"Poco/Net/Net.h"
+	"Poco/Net/SocketDefs.h"
+	"Poco/Net/IPAddress.h"
+
+1366315785 /opt/Projectos/CCVIpCamera/server/libs/poco/include/Poco/Net/IPAddress.h
+	"Poco/Net/Net.h"
+	"Poco/Net/SocketDefs.h"
+
+1366315785 /opt/Projectos/CCVIpCamera/server/libs/poco/include/Poco/Timespan.h
+	"Poco/Foundation.h"
+	"Poco/Timestamp.h"
+
+1366232615 /opt/Projectos/CCVIpCamera/server/addons/ofxMjpeg/src/ofxMJPEGReader.h
+	"ofMain.h"
+	"ofxThread.h"
+
+1366232615 /opt/Projectos/CCVIpCamera/server/addons/ofxMjpeg/src/ofxMJPEGConverter.h
+	"ofxThread.h"
+
+1366232615 /opt/Projectos/CCVIpCamera/server/addons/ofxMjpeg/src/ofxMJPEGImage.h
+	"ofMain.h"
+	<FreeImage.h>
+
+1366310878 source:/opt/Projectos/CCVIpCamera/server/addons/ofxMjpeg/src/ofxMJPEGClient.cpp
+	"ofxMJPEGClient.h"
+	"Poco/URI.h"
+	"Poco/Net/HTTPRequest.h"
+	"Poco/Net/HTTPMessage.h"
+	"Poco/Net/HTTPResponse.h"
+
+1366315785 /opt/Projectos/CCVIpCamera/server/libs/poco/include/Poco/URI.h
+	"Poco/Foundation.h"
+	<vector>
+
+1366315785 /opt/Projectos/CCVIpCamera/server/libs/poco/include/Poco/Net/HTTPRequest.h
+	"Poco/Net/Net.h"
+	"Poco/Net/HTTPMessage.h"
+
+1366315785 /opt/Projectos/CCVIpCamera/server/libs/poco/include/Poco/Net/HTTPMessage.h
+	"Poco/Net/Net.h"
+	"Poco/Net/MessageHeader.h"
+
+1366315785 /opt/Projectos/CCVIpCamera/server/libs/poco/include/Poco/Net/MessageHeader.h
+	"Poco/Net/Net.h"
+	"Poco/Net/NameValueCollection.h"
+	<ostream>
+	<istream>
+	<vector>
+
+1366315785 /opt/Projectos/CCVIpCamera/server/libs/poco/include/Poco/Net/NameValueCollection.h
+	"Poco/Net/Net.h"
+	"Poco/String.h"
+	<map>
+
+1366315785 /opt/Projectos/CCVIpCamera/server/libs/poco/include/Poco/String.h
+	"Poco/Foundation.h"
+	<cstring>
+	<cctype>
+
+1366315785 /opt/Projectos/CCVIpCamera/server/libs/poco/include/Poco/Net/HTTPResponse.h
+	"Poco/Net/Net.h"
+	"Poco/Net/HTTPMessage.h"
+	"Poco/Net/HTTPCookie.h"
+	"Poco/Timestamp.h"
+	<vector>
+
+1366315785 /opt/Projectos/CCVIpCamera/server/libs/poco/include/Poco/Net/HTTPCookie.h
+	"Poco/Net/Net.h"
+
+1366232615 source:/opt/Projectos/CCVIpCamera/server/addons/ofxMjpeg/src/ofxMJPEGConverter.cpp
+	"ofxMJPEGConverter.h"
+	"ofxMJPEGClient.h"
+
+1366232615 source:/opt/Projectos/CCVIpCamera/server/addons/ofxMjpeg/src/ofxMJPEGImage.cpp
+	"ofxMJPEGImage.h"
+
+1366232615 source:/opt/Projectos/CCVIpCamera/server/addons/ofxMjpeg/src/ofxMJPEGReader.cpp
+	"ofxMJPEGReader.h"
+	"ofxMJPEGClient.h"
+	"ofxMJPEGImage.h"
 

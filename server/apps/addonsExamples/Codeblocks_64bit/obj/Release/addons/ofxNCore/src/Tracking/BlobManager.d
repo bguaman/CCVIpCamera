@@ -316,4 +316,19 @@ obj/Release/addons/ofxNCore/src/Tracking/BlobManager.o: \
  /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Tracking/../Controls/ofxGuiSwitch.h \
  /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Tracking/../Controls/ofxGuiTypes.h \
  /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Tracking/../Modules/ofxNCoreVision.h \
- ../../../addons/ofxNCore/src/ofxNCore.h
+ ../../../addons/ofxNCore/src/ofxNCore.h \
+ ../../../addons/ofxMjpeg/src/ofxMJPEG.h \
+ ../../../addons/ofxMjpeg/src/ofxMJPEGClient.h \
+ ../../../libs/poco/include/Poco/Net/HTTPClientSession.h \
+ ../../../libs/poco/include/Poco/Net/Net.h \
+ ../../../libs/poco/include/Poco/Net/HTTPSession.h \
+ ../../../libs/poco/include/Poco/Net/StreamSocket.h \
+ ../../../libs/poco/include/Poco/Net/Socket.h \
+ ../../../libs/poco/include/Poco/Net/SocketImpl.h \
+ ../../../libs/poco/include/Poco/Net/SocketDefs.h \
+ ../../../libs/poco/include/Poco/Net/SocketAddress.h \
+ ../../../libs/poco/include/Poco/Net/IPAddress.h \
+ ../../../libs/poco/include/Poco/Timespan.h \
+ ../../../addons/ofxMjpeg/src/ofxMJPEGReader.h \
+ ../../../addons/ofxMjpeg/src/ofxMJPEGConverter.h \
+ ../../../addons/ofxMjpeg/src/ofxMJPEGImage.h

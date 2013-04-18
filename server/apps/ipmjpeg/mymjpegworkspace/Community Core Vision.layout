@@ -1,20 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <CodeBlocks_layout_file>
 	<ActiveTarget name="Release" />
-	<File name="../../../addons/ofxMjpeg/src/ofxMJPEGClient.cpp" open="1" top="1" tabpos="4">
-		<Cursor position="266" topLine="0" />
-	</File>
-	<File name="../../../addons/ofxMjpeg/src/ofxMJPEGClient.h" open="1" top="0" tabpos="6">
-		<Cursor position="333" topLine="6" />
-	</File>
-	<File name="../../../addons/ofxMjpeg/src/ofxMJPEGConverter.h" open="1" top="0" tabpos="8">
-		<Cursor position="226" topLine="0" />
-	</File>
-	<File name="../../../addons/ofxMjpeg/src/ofxMJPEGReader.cpp" open="1" top="0" tabpos="7">
-		<Cursor position="0" topLine="0" />
-	</File>
-	<File name="../../../addons/ofxMjpeg/src/ofxMJPEGReader.h" open="0" top="0" tabpos="0">
-		<Cursor position="208" topLine="0" />
+	<File name="../../../addons/ofxThread/src/ofxThread.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="3769" topLine="109" />
 	</File>
 	<File name="src/main.cpp" open="1" top="0" tabpos="3">
 		<Cursor position="414" topLine="0" />

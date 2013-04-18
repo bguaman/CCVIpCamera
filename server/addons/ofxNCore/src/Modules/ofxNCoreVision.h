@@ -29,7 +29,7 @@
 
 // Our Addon
 #include "ofxNCore.h"
-
+#include "ofxMJPEG.h"
 // height and width of the source/tracked draw window
 #define MAIN_WINDOW_HEIGHT 240.0f
 #define MAIN_WINDOW_WIDTH  320.0f
