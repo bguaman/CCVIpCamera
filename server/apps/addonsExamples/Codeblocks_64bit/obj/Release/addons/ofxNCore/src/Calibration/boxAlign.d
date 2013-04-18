@@ -1,6 +1,6 @@
 obj/Release/addons/ofxNCore/src/Calibration/boxAlign.o: \
- /home/bguaman/OF/OFCCV/server/addons/ofxNCore/src/Calibration/boxAlign.cpp \
- /home/bguaman/OF/OFCCV/server/addons/ofxNCore/src/Calibration/boxAlign.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Calibration/boxAlign.cpp \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Calibration/boxAlign.h \
  ../../../libs/openFrameworks/ofMain.h \
  ../../../libs/openFrameworks/utils/ofConstants.h \
  ../../../libs/glee/include/GLee.h \

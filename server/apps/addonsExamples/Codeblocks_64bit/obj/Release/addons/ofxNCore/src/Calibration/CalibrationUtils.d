@@ -1,6 +1,6 @@
 obj/Release/addons/ofxNCore/src/Calibration/CalibrationUtils.o: \
- /home/bguaman/OF/OFCCV/server/addons/ofxNCore/src/Calibration/CalibrationUtils.cpp \
- /home/bguaman/OF/OFCCV/server/addons/ofxNCore/src/Calibration/CalibrationUtils.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Calibration/CalibrationUtils.cpp \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Calibration/CalibrationUtils.h \
  ../../../addons/ofxXmlSettings/src/ofxXmlSettings.h \
  ../../../libs/openFrameworks/ofMain.h \
  ../../../libs/openFrameworks/utils/ofConstants.h \
@@ -212,5 +212,5 @@ obj/Release/addons/ofxNCore/src/Calibration/CalibrationUtils.o: \
  /usr/include/gstreamer-0.10/gst/gstcompat.h \
  ../../../libs/openFrameworks/video/ofVideoPlayer.h \
  ../../../addons/ofxXmlSettings/libs/tinyxml.h \
- /home/bguaman/OF/OFCCV/server/addons/ofxNCore/src/Calibration/rect2d.h \
- /home/bguaman/OF/OFCCV/server/addons/ofxNCore/src/Calibration/vector2d.h
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Calibration/rect2d.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Calibration/vector2d.h

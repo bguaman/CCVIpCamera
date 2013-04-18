@@ -1,7 +1,7 @@
 obj/Release/addons/ofxNCore/src/Controls/ofxGuiSlider.o: \
- /home/bguaman/OF/OFCCV/server/addons/ofxNCore/src/Controls/ofxGuiSlider.cpp \
- /home/bguaman/OF/OFCCV/server/addons/ofxNCore/src/Controls/ofxGuiSlider.h \
- /home/bguaman/OF/OFCCV/server/addons/ofxNCore/src/Controls/ofxGuiTypes.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Controls/ofxGuiSlider.cpp \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Controls/ofxGuiSlider.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Controls/ofxGuiTypes.h \
  ../../../libs/openFrameworks/ofMain.h \
  ../../../libs/openFrameworks/utils/ofConstants.h \
  ../../../libs/glee/include/GLee.h \
@@ -221,5 +221,5 @@ obj/Release/addons/ofxNCore/src/Controls/ofxGuiSlider.o: \
  ../../../addons/ofxVectorMath/src/ofxQuaternion.h \
  ../../../addons/ofxXmlSettings/src/ofxXmlSettings.h \
  ../../../addons/ofxXmlSettings/libs/tinyxml.h \
- /home/bguaman/OF/OFCCV/server/addons/ofxNCore/src/Controls/ofxGuiObject.h \
- /home/bguaman/OF/OFCCV/server/addons/ofxNCore/src/Controls/ofxGuiGlobals.h
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Controls/ofxGuiObject.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Controls/ofxGuiGlobals.h

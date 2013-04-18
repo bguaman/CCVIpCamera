@@ -1,7 +1,7 @@
 obj/Release/addons/ofxOsc/src/ofxOscBundle.o: \
- /home/bguaman/app/IPS/ifloor/trunk/server/addons/ofxOsc/src/ofxOscBundle.cpp \
- /home/bguaman/app/IPS/ifloor/trunk/server/addons/ofxOsc/src/ofxOscBundle.h \
- /home/bguaman/app/IPS/ifloor/trunk/server/addons/ofxOsc/src/ofxOscMessage.h \
- /home/bguaman/app/IPS/ifloor/trunk/server/addons/ofxOsc/src/ofxOscArg.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxOsc/src/ofxOscBundle.cpp \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxOsc/src/ofxOscBundle.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxOsc/src/ofxOscMessage.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxOsc/src/ofxOscArg.h \
  ../../../libs/openFrameworks/utils/ofConstants.h \
  ../../../libs/glee/include/GLee.h

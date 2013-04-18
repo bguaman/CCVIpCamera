@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/ifloor/!svn/ver/5/trunk/server/apps/addonsExamples/Codeblocks_64bit/obj/Release/addons/ofxFiducialFinder/src/libfidtrack
+END
+fidtrackX.d
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/ifloor/!svn/ver/7/trunk/server/apps/addonsExamples/Codeblocks_64bit/obj/Release/addons/ofxFiducialFinder/src/libfidtrack/fidtrackX.d
+END
+segment.d
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/ifloor/!svn/ver/7/trunk/server/apps/addonsExamples/Codeblocks_64bit/obj/Release/addons/ofxFiducialFinder/src/libfidtrack/segment.d
+END
+treeidmap.d
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/ifloor/!svn/ver/7/trunk/server/apps/addonsExamples/Codeblocks_64bit/obj/Release/addons/ofxFiducialFinder/src/libfidtrack/treeidmap.d
+END

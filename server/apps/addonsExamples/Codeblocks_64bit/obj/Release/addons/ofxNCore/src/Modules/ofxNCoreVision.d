@@ -1,6 +1,6 @@
 obj/Release/addons/ofxNCore/src/Modules/ofxNCoreVision.o: \
- /home/bguaman/OF/CCVepsilonycentro/server/addons/ofxNCore/src/Modules/ofxNCoreVision.cpp \
- /home/bguaman/OF/CCVepsilonycentro/server/addons/ofxNCore/src/Modules/ofxNCoreVision.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Modules/ofxNCoreVision.cpp \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Modules/ofxNCoreVision.h \
  ../../../libs/openFrameworks/ofMain.h \
  ../../../libs/openFrameworks/utils/ofConstants.h \
  ../../../libs/glee/include/GLee.h \
@@ -317,6 +317,6 @@ obj/Release/addons/ofxNCore/src/Modules/ofxNCoreVision.o: \
  ../../../addons/ofxNCore/src/Controls/ofxGuiSwitch.h \
  ../../../addons/ofxNCore/src/Controls/ofxGuiTypes.h \
  ../../../addons/ofxNCore/src/Modules/ofxNCoreVision.h \
- /home/bguaman/OF/CCVepsilonycentro/server/addons/ofxNCore/src/Modules/../Controls/gui.h \
- /home/bguaman/OF/CCVepsilonycentro/server/addons/ofxNCore/src/Modules/../Controls/../Modules/ofxNCoreVision.h \
- /home/bguaman/OF/CCVepsilonycentro/server/addons/ofxNCore/src/Modules/../Controls/../Camera/CameraUtils.h
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Modules/../Controls/gui.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Modules/../Controls/../Modules/ofxNCoreVision.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Modules/../Controls/../Camera/CameraUtils.h

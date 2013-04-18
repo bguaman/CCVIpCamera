@@ -1,7 +1,7 @@
 obj/Release/addons/ofxFiducialFinder/src/ofxFiducialTracker.o: \
- /home/bguaman/OF/OFCCV/server/addons/ofxFiducialFinder/src/ofxFiducialTracker.cpp \
- /home/bguaman/OF/OFCCV/server/addons/ofxFiducialFinder/src/ofxFiducialTracker.h \
- /home/bguaman/OF/OFCCV/server/addons/ofxFiducialFinder/src/ofxFiducial.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxFiducialFinder/src/ofxFiducialTracker.cpp \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxFiducialFinder/src/ofxFiducialTracker.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxFiducialFinder/src/ofxFiducial.h \
  ../../../libs/openFrameworks/ofMain.h \
  ../../../libs/openFrameworks/utils/ofConstants.h \
  ../../../libs/glee/include/GLee.h \
@@ -211,11 +211,11 @@ obj/Release/addons/ofxFiducialFinder/src/ofxFiducialTracker.o: \
  /usr/include/gstreamer-0.10/gst/gstxml.h \
  /usr/include/gstreamer-0.10/gst/gstcompat.h \
  ../../../libs/openFrameworks/video/ofVideoPlayer.h \
- /home/bguaman/OF/OFCCV/server/addons/ofxFiducialFinder/src/libfidtrack/fidtrackX.h \
- /home/bguaman/OF/OFCCV/server/addons/ofxFiducialFinder/src/libfidtrack/segment.h \
- /home/bguaman/OF/OFCCV/server/addons/ofxFiducialFinder/src/libfidtrack/treeidmap.h \
- /home/bguaman/OF/OFCCV/server/addons/ofxFiducialFinder/src/libfidtrack/floatpoint.h \
- /home/bguaman/OF/OFCCV/server/addons/ofxFiducialFinder/src/ofxFinger.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxFiducialFinder/src/libfidtrack/fidtrackX.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxFiducialFinder/src/libfidtrack/segment.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxFiducialFinder/src/libfidtrack/treeidmap.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxFiducialFinder/src/libfidtrack/floatpoint.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxFiducialFinder/src/ofxFinger.h \
  ../../../addons/ofxOpenCv/src/ofxCvGrayscaleImage.h \
  ../../../addons/ofxOpenCv/src/ofxCvImage.h \
  ../../../addons/ofxOpenCv/src/ofxCvConstants.h \
@@ -229,4 +229,4 @@ obj/Release/addons/ofxFiducialFinder/src/ofxFiducialTracker.o: \
  ../../../addons/ofxOpenCv/libs/opencv/include/cv.hpp \
  ../../../addons/ofxOpenCv/libs/opencv/include/cvcompat.h \
  ../../../addons/ofxOpenCv/src/ofxCvBlob.h \
- /home/bguaman/OF/OFCCV/server/addons/ofxFiducialFinder/src/libfidtrack/segment.h
+ /opt/Projectos/CCVIpCamera/server/addons/ofxFiducialFinder/src/libfidtrack/segment.h

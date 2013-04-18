@@ -1,7 +1,7 @@
 obj/Release/addons/ofxOpenCv/src/ofxCvContourFinder.o: \
- /home/bguaman/OF/OFCCV/server/addons/ofxOpenCv/src/ofxCvContourFinder.cpp \
- /home/bguaman/OF/OFCCV/server/addons/ofxOpenCv/src/ofxCvContourFinder.h \
- /home/bguaman/OF/OFCCV/server/addons/ofxOpenCv/src/ofxCvConstants.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxOpenCv/src/ofxCvContourFinder.cpp \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxOpenCv/src/ofxCvContourFinder.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxOpenCv/src/ofxCvConstants.h \
  ../../../addons/ofxOpenCv/libs/opencv/include/cv.h \
  ../../../addons/ofxOpenCv/libs/opencv/include/cxcore.h \
  ../../../addons/ofxOpenCv/libs/opencv/include/cxtypes.h \
@@ -220,6 +220,6 @@ obj/Release/addons/ofxOpenCv/src/ofxCvContourFinder.o: \
  /usr/include/gstreamer-0.10/gst/gstxml.h \
  /usr/include/gstreamer-0.10/gst/gstcompat.h \
  ../../../libs/openFrameworks/video/ofVideoPlayer.h \
- /home/bguaman/OF/OFCCV/server/addons/ofxOpenCv/src/ofxCvBlob.h \
- /home/bguaman/OF/OFCCV/server/addons/ofxOpenCv/src/ofxCvGrayscaleImage.h \
- /home/bguaman/OF/OFCCV/server/addons/ofxOpenCv/src/ofxCvImage.h
+ /opt/Projectos/CCVIpCamera/server/addons/ofxOpenCv/src/ofxCvBlob.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxOpenCv/src/ofxCvGrayscaleImage.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxOpenCv/src/ofxCvImage.h

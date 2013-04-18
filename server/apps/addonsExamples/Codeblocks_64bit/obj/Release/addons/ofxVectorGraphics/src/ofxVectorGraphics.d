@@ -1,6 +1,6 @@
 obj/Release/addons/ofxVectorGraphics/src/ofxVectorGraphics.o: \
- /home/bguaman/OF/OFCCV/server/addons/ofxVectorGraphics/src/ofxVectorGraphics.cpp \
- /home/bguaman/OF/OFCCV/server/addons/ofxVectorGraphics/src/ofxVectorGraphics.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxVectorGraphics/src/ofxVectorGraphics.cpp \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxVectorGraphics/src/ofxVectorGraphics.h \
  ../../../addons/ofxVectorGraphics/libs/CreEPS.hpp \
  ../../../addons/ofxVectorGraphics/libs/CreEPS_Types.hpp \
  ../../../libs/openFrameworks/ofMain.h \

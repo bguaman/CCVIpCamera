@@ -1,5 +1,5 @@
 obj/Release/src/main.o: \
- /home/bguaman/OF/CCVepsilonycentro/server/apps/addonsExamples/Codeblocks_64bit/src/main.cpp \
+ /opt/Projectos/CCVIpCamera/server/apps/addonsExamples/Codeblocks_64bit/src/main.cpp \
  ../../../libs/openFrameworks/ofMain.h \
  ../../../libs/openFrameworks/utils/ofConstants.h \
  ../../../libs/glee/include/GLee.h \
@@ -209,7 +209,7 @@ obj/Release/src/main.o: \
  /usr/include/gstreamer-0.10/gst/gstxml.h \
  /usr/include/gstreamer-0.10/gst/gstcompat.h \
  ../../../libs/openFrameworks/video/ofVideoPlayer.h \
- /home/bguaman/OF/CCVepsilonycentro/server/apps/addonsExamples/Codeblocks_64bit/src/testApp.h \
+ /opt/Projectos/CCVIpCamera/server/apps/addonsExamples/Codeblocks_64bit/src/testApp.h \
  ../../../addons/ofxNCore/src/ofxNCore.h \
  ../../../addons/ofxNCore/src/Events/TouchMessenger.h \
  ../../../addons/ofxNCore/src/Events/../Tracking/ContourFinder.h \

@@ -1,6 +1,6 @@
 obj/Release/addons/ofxNCore/src/Filters/CPUImageFilter.o: \
- /home/bguaman/OF/OFCCV/server/addons/ofxNCore/src/Filters/CPUImageFilter.cpp \
- /home/bguaman/OF/OFCCV/server/addons/ofxNCore/src/Filters/CPUImageFilter.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Filters/CPUImageFilter.cpp \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Filters/CPUImageFilter.h \
  ../../../addons/ofxOpenCv/src/ofxCvGrayscaleImage.h \
  ../../../addons/ofxOpenCv/src/ofxCvImage.h \
  ../../../addons/ofxOpenCv/src/ofxCvConstants.h \

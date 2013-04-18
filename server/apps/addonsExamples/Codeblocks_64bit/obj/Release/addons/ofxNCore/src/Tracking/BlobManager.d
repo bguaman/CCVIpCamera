@@ -1,8 +1,8 @@
 obj/Release/addons/ofxNCore/src/Tracking/BlobManager.o: \
- /home/bguaman/OF/CCVepsilonycentro/server/addons/ofxNCore/src/Tracking/BlobManager.cpp \
- /home/bguaman/OF/CCVepsilonycentro/server/addons/ofxNCore/src/Tracking/BlobManager.h \
- /home/bguaman/OF/CCVepsilonycentro/server/addons/ofxNCore/src/Tracking/../ofxNCore.h \
- /home/bguaman/OF/CCVepsilonycentro/server/addons/ofxNCore/src/Tracking/../Events/TouchMessenger.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Tracking/BlobManager.cpp \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Tracking/BlobManager.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Tracking/../ofxNCore.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Tracking/../Events/TouchMessenger.h \
  ../../../libs/poco/include/Poco/FIFOEvent.h \
  ../../../libs/poco/include/Poco/AbstractEvent.h \
  ../../../libs/poco/include/Poco/Foundation.h \
@@ -42,7 +42,7 @@ obj/Release/addons/ofxNCore/src/Tracking/BlobManager.o: \
  ../../../libs/openFrameworks/utils/ofConstants.h \
  ../../../libs/glee/include/GLee.h \
  ../../../libs/openFrameworks/utils/ofUtils.h \
- /home/bguaman/OF/CCVepsilonycentro/server/addons/ofxNCore/src/Tracking/../Events/../Tracking/ContourFinder.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Tracking/../Events/../Tracking/ContourFinder.h \
  ../../../libs/openFrameworks/ofMain.h \
  ../../../libs/openFrameworks/utils/ofConstants.h \
  ../../../libs/openFrameworks/utils/ofMath.h \
@@ -231,43 +231,43 @@ obj/Release/addons/ofxNCore/src/Tracking/BlobManager.o: \
  ../../../addons/ofxOpenCv/src/ofxCvFloatImage.h \
  ../../../addons/ofxOpenCv/src/ofxCvShortImage.h \
  ../../../addons/ofxOpenCv/src/ofxCvContourFinder.h \
- /home/bguaman/OF/CCVepsilonycentro/server/addons/ofxNCore/src/Tracking/../Events/../Tracking/Blob.h \
- /home/bguaman/OF/CCVepsilonycentro/server/addons/ofxNCore/src/Tracking/../Events/../Tracking/../Templates/TemplateUtils.h \
- /home/bguaman/OF/CCVepsilonycentro/server/addons/ofxNCore/src/Tracking/../Events/../Tracking/../Templates/Template.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Tracking/../Events/../Tracking/Blob.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Tracking/../Events/../Tracking/../Templates/TemplateUtils.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Tracking/../Events/../Tracking/../Templates/Template.h \
  ../../../addons/ofxXmlSettings/src/ofxXmlSettings.h \
  ../../../addons/ofxXmlSettings/libs/tinyxml.h \
- /home/bguaman/OF/CCVepsilonycentro/server/addons/ofxNCore/src/Tracking/../Tracking/Tracking.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Tracking/../Tracking/Tracking.h \
  ../../../addons/ofxFiducialFinder/src/ofxFiducial.h \
  ../../../addons/ofxFiducialFinder/src/libfidtrack/fidtrackX.h \
  ../../../addons/ofxFiducialFinder/src/libfidtrack/segment.h \
  ../../../addons/ofxFiducialFinder/src/libfidtrack/treeidmap.h \
  ../../../addons/ofxFiducialFinder/src/libfidtrack/floatpoint.h \
- /home/bguaman/OF/CCVepsilonycentro/server/addons/ofxNCore/src/Tracking/../Tracking/ContourFinder.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Tracking/../Tracking/ContourFinder.h \
  ../../../addons/ofxFiducialFinder/src/ofxFiducialTracker.h \
  ../../../addons/ofxFiducialFinder/src/ofxFiducial.h \
  ../../../addons/ofxFiducialFinder/src/ofxFinger.h \
  ../../../addons/ofxOpenCv/src/ofxCvGrayscaleImage.h \
  ../../../addons/ofxFiducialFinder/src/libfidtrack/segment.h \
- /home/bguaman/OF/CCVepsilonycentro/server/addons/ofxNCore/src/Tracking/../Tracking/../Events/TouchMessenger.h \
- /home/bguaman/OF/CCVepsilonycentro/server/addons/ofxNCore/src/Tracking/../Tracking/../Calibration/CalibrationUtils.h \
- /home/bguaman/OF/CCVepsilonycentro/server/addons/ofxNCore/src/Tracking/../Tracking/../Calibration/rect2d.h \
- /home/bguaman/OF/CCVepsilonycentro/server/addons/ofxNCore/src/Tracking/../Tracking/../Calibration/vector2d.h \
- /home/bguaman/OF/CCVepsilonycentro/server/addons/ofxNCore/src/Tracking/../Templates/TemplateUtils.h \
- /home/bguaman/OF/CCVepsilonycentro/server/addons/ofxNCore/src/Tracking/../Filters/GPUImageFilter.h \
- /home/bguaman/OF/CCVepsilonycentro/server/addons/ofxNCore/src/Tracking/../Filters/ShaderProgram.h \
- /home/bguaman/OF/CCVepsilonycentro/server/addons/ofxNCore/src/Tracking/../Filters/CPUImageFilter.h \
- /home/bguaman/OF/CCVepsilonycentro/server/addons/ofxNCore/src/Tracking/../Filters/ProcessFilters.h \
- /home/bguaman/OF/CCVepsilonycentro/server/addons/ofxNCore/src/Tracking/../Filters/Filters.h \
- /home/bguaman/OF/CCVepsilonycentro/server/addons/ofxNCore/src/Tracking/../Filters/CPUImageFilter.h \
- /home/bguaman/OF/CCVepsilonycentro/server/addons/ofxNCore/src/Tracking/../Filters/GPUImageFilter.h \
- /home/bguaman/OF/CCVepsilonycentro/server/addons/ofxNCore/src/Tracking/../Calibration/CalibrationUtils.h \
- /home/bguaman/OF/CCVepsilonycentro/server/addons/ofxNCore/src/Tracking/../Calibration/Calibration.h \
- /home/bguaman/OF/CCVepsilonycentro/server/addons/ofxNCore/src/Tracking/../Calibration/CalibrationUtils.h \
- /home/bguaman/OF/CCVepsilonycentro/server/addons/ofxNCore/src/Tracking/../Calibration/../Events/TouchMessenger.h \
- /home/bguaman/OF/CCVepsilonycentro/server/addons/ofxNCore/src/Tracking/../Calibration/../Tracking/ContourFinder.h \
- /home/bguaman/OF/CCVepsilonycentro/server/addons/ofxNCore/src/Tracking/../Calibration/../Tracking/Tracking.h \
- /home/bguaman/OF/CCVepsilonycentro/server/addons/ofxNCore/src/Tracking/../Communication/TUIO.h \
- /home/bguaman/OF/CCVepsilonycentro/server/addons/ofxNCore/src/Tracking/../Communication/../Tracking/ContourFinder.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Tracking/../Tracking/../Events/TouchMessenger.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Tracking/../Tracking/../Calibration/CalibrationUtils.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Tracking/../Tracking/../Calibration/rect2d.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Tracking/../Tracking/../Calibration/vector2d.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Tracking/../Templates/TemplateUtils.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Tracking/../Filters/GPUImageFilter.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Tracking/../Filters/ShaderProgram.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Tracking/../Filters/CPUImageFilter.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Tracking/../Filters/ProcessFilters.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Tracking/../Filters/Filters.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Tracking/../Filters/CPUImageFilter.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Tracking/../Filters/GPUImageFilter.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Tracking/../Calibration/CalibrationUtils.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Tracking/../Calibration/Calibration.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Tracking/../Calibration/CalibrationUtils.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Tracking/../Calibration/../Events/TouchMessenger.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Tracking/../Calibration/../Tracking/ContourFinder.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Tracking/../Calibration/../Tracking/Tracking.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Tracking/../Communication/TUIO.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Tracking/../Communication/../Tracking/ContourFinder.h \
  ../../../addons/ofxOsc/src/ofxOsc.h \
  ../../../addons/ofxOsc/src/ofxOscArg.h \
  ../../../addons/ofxOsc/src/ofxOscMessage.h \
@@ -290,8 +290,8 @@ obj/Release/addons/ofxNCore/src/Tracking/BlobManager.o: \
  ../../../addons/ofxNetwork/src/ofxTCPManager.h \
  ../../../addons/ofxNetwork/src/ofxTCPServer.h \
  ../../../addons/ofxNetwork/src/ofxUDPManager.h \
- /home/bguaman/OF/CCVepsilonycentro/server/addons/ofxNCore/src/Tracking/../Controls/ofxGui.h \
- /home/bguaman/OF/CCVepsilonycentro/server/addons/ofxNCore/src/Tracking/../Controls/ofxGuiTypes.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Tracking/../Controls/ofxGui.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Tracking/../Controls/ofxGuiTypes.h \
  ../../../addons/ofAddons.h ../../../addons/ofxDirList/src/ofxDirList.h \
  ../../../addons/ofxVectorMath/src/ofxVectorMath.h \
  ../../../addons/ofxVectorMath/src/ofxVec2f.h \
@@ -300,20 +300,20 @@ obj/Release/addons/ofxNCore/src/Tracking/BlobManager.o: \
  ../../../addons/ofxVectorMath/src/ofxMatrix3x3.h \
  ../../../addons/ofxVectorMath/src/ofxMatrix4x4.h \
  ../../../addons/ofxVectorMath/src/ofxQuaternion.h \
- /home/bguaman/OF/CCVepsilonycentro/server/addons/ofxNCore/src/Tracking/../Controls/ofxGuiPanel.h \
- /home/bguaman/OF/CCVepsilonycentro/server/addons/ofxNCore/src/Tracking/../Controls/ofxGuiObject.h \
- /home/bguaman/OF/CCVepsilonycentro/server/addons/ofxNCore/src/Tracking/../Controls/ofxGuiGlobals.h \
- /home/bguaman/OF/CCVepsilonycentro/server/addons/ofxNCore/src/Tracking/../Controls/ofxGuiSlider.h \
- /home/bguaman/OF/CCVepsilonycentro/server/addons/ofxNCore/src/Tracking/../Controls/ofxGuiXYPad.h \
- /home/bguaman/OF/CCVepsilonycentro/server/addons/ofxNCore/src/Tracking/../Controls/ofxGuiPoints.h \
- /home/bguaman/OF/CCVepsilonycentro/server/addons/ofxNCore/src/Tracking/../Controls/ofxGuiButton.h \
- /home/bguaman/OF/CCVepsilonycentro/server/addons/ofxNCore/src/Tracking/../Controls/ofxGuiFiles.h \
- /home/bguaman/OF/CCVepsilonycentro/server/addons/ofxNCore/src/Tracking/../Controls/ofxGuiColor.h \
- /home/bguaman/OF/CCVepsilonycentro/server/addons/ofxNCore/src/Tracking/../Controls/ofxGuiMatrix.h \
- /home/bguaman/OF/CCVepsilonycentro/server/addons/ofxNCore/src/Tracking/../Controls/ofxGuiScope.h \
- /home/bguaman/OF/CCVepsilonycentro/server/addons/ofxNCore/src/Tracking/../Controls/ofxGuiKnob.h \
- /home/bguaman/OF/CCVepsilonycentro/server/addons/ofxNCore/src/Tracking/../Controls/ofxGuiRadar.h \
- /home/bguaman/OF/CCVepsilonycentro/server/addons/ofxNCore/src/Tracking/../Controls/ofxGuiSwitch.h \
- /home/bguaman/OF/CCVepsilonycentro/server/addons/ofxNCore/src/Tracking/../Controls/ofxGuiTypes.h \
- /home/bguaman/OF/CCVepsilonycentro/server/addons/ofxNCore/src/Tracking/../Modules/ofxNCoreVision.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Tracking/../Controls/ofxGuiPanel.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Tracking/../Controls/ofxGuiObject.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Tracking/../Controls/ofxGuiGlobals.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Tracking/../Controls/ofxGuiSlider.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Tracking/../Controls/ofxGuiXYPad.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Tracking/../Controls/ofxGuiPoints.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Tracking/../Controls/ofxGuiButton.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Tracking/../Controls/ofxGuiFiles.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Tracking/../Controls/ofxGuiColor.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Tracking/../Controls/ofxGuiMatrix.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Tracking/../Controls/ofxGuiScope.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Tracking/../Controls/ofxGuiKnob.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Tracking/../Controls/ofxGuiRadar.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Tracking/../Controls/ofxGuiSwitch.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Tracking/../Controls/ofxGuiTypes.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Tracking/../Modules/ofxNCoreVision.h \
  ../../../addons/ofxNCore/src/ofxNCore.h

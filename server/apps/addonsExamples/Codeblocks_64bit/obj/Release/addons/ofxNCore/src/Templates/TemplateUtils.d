@@ -1,7 +1,7 @@
 obj/Release/addons/ofxNCore/src/Templates/TemplateUtils.o: \
- /home/bguaman/OF/OFCCV/server/addons/ofxNCore/src/Templates/TemplateUtils.cpp \
- /home/bguaman/OF/OFCCV/server/addons/ofxNCore/src/Templates/TemplateUtils.h \
- /home/bguaman/OF/OFCCV/server/addons/ofxNCore/src/Templates/Template.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Templates/TemplateUtils.cpp \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Templates/TemplateUtils.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Templates/Template.h \
  ../../../libs/openFrameworks/ofMain.h \
  ../../../libs/openFrameworks/utils/ofConstants.h \
  ../../../libs/glee/include/GLee.h \

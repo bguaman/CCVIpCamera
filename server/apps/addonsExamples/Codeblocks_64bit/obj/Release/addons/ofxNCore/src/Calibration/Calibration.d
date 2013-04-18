@@ -1,6 +1,6 @@
 obj/Release/addons/ofxNCore/src/Calibration/Calibration.o: \
- /home/bguaman/OF/CCVepsilonycentro/server/addons/ofxNCore/src/Calibration/Calibration.cpp \
- /home/bguaman/OF/CCVepsilonycentro/server/addons/ofxNCore/src/Calibration/Calibration.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Calibration/Calibration.cpp \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Calibration/Calibration.h \
  ../../../addons/ofxXmlSettings/src/ofxXmlSettings.h \
  ../../../libs/openFrameworks/ofMain.h \
  ../../../libs/openFrameworks/utils/ofConstants.h \
@@ -212,11 +212,11 @@ obj/Release/addons/ofxNCore/src/Calibration/Calibration.o: \
  /usr/include/gstreamer-0.10/gst/gstcompat.h \
  ../../../libs/openFrameworks/video/ofVideoPlayer.h \
  ../../../addons/ofxXmlSettings/libs/tinyxml.h \
- /home/bguaman/OF/CCVepsilonycentro/server/addons/ofxNCore/src/Calibration/CalibrationUtils.h \
- /home/bguaman/OF/CCVepsilonycentro/server/addons/ofxNCore/src/Calibration/rect2d.h \
- /home/bguaman/OF/CCVepsilonycentro/server/addons/ofxNCore/src/Calibration/vector2d.h \
- /home/bguaman/OF/CCVepsilonycentro/server/addons/ofxNCore/src/Calibration/../Events/TouchMessenger.h \
- /home/bguaman/OF/CCVepsilonycentro/server/addons/ofxNCore/src/Calibration/../Events/../Tracking/ContourFinder.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Calibration/CalibrationUtils.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Calibration/rect2d.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Calibration/vector2d.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Calibration/../Events/TouchMessenger.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Calibration/../Events/../Tracking/ContourFinder.h \
  ../../../addons/ofxOpenCv/src/ofxOpenCv.h \
  ../../../addons/ofxOpenCv/src/ofxCvConstants.h \
  ../../../addons/ofxOpenCv/libs/opencv/include/cv.h \
@@ -235,21 +235,21 @@ obj/Release/addons/ofxNCore/src/Calibration/Calibration.o: \
  ../../../addons/ofxOpenCv/src/ofxCvFloatImage.h \
  ../../../addons/ofxOpenCv/src/ofxCvShortImage.h \
  ../../../addons/ofxOpenCv/src/ofxCvContourFinder.h \
- /home/bguaman/OF/CCVepsilonycentro/server/addons/ofxNCore/src/Calibration/../Events/../Tracking/Blob.h \
- /home/bguaman/OF/CCVepsilonycentro/server/addons/ofxNCore/src/Calibration/../Events/../Tracking/../Templates/TemplateUtils.h \
- /home/bguaman/OF/CCVepsilonycentro/server/addons/ofxNCore/src/Calibration/../Events/../Tracking/../Templates/Template.h \
- /home/bguaman/OF/CCVepsilonycentro/server/addons/ofxNCore/src/Calibration/../Tracking/ContourFinder.h \
- /home/bguaman/OF/CCVepsilonycentro/server/addons/ofxNCore/src/Calibration/../Tracking/Tracking.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Calibration/../Events/../Tracking/Blob.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Calibration/../Events/../Tracking/../Templates/TemplateUtils.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Calibration/../Events/../Tracking/../Templates/Template.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Calibration/../Tracking/ContourFinder.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Calibration/../Tracking/Tracking.h \
  ../../../addons/ofxFiducialFinder/src/ofxFiducial.h \
  ../../../addons/ofxFiducialFinder/src/libfidtrack/fidtrackX.h \
  ../../../addons/ofxFiducialFinder/src/libfidtrack/segment.h \
  ../../../addons/ofxFiducialFinder/src/libfidtrack/treeidmap.h \
  ../../../addons/ofxFiducialFinder/src/libfidtrack/floatpoint.h \
- /home/bguaman/OF/CCVepsilonycentro/server/addons/ofxNCore/src/Calibration/../Tracking/ContourFinder.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Calibration/../Tracking/ContourFinder.h \
  ../../../addons/ofxFiducialFinder/src/ofxFiducialTracker.h \
  ../../../addons/ofxFiducialFinder/src/ofxFiducial.h \
  ../../../addons/ofxFiducialFinder/src/ofxFinger.h \
  ../../../addons/ofxOpenCv/src/ofxCvGrayscaleImage.h \
  ../../../addons/ofxFiducialFinder/src/libfidtrack/segment.h \
- /home/bguaman/OF/CCVepsilonycentro/server/addons/ofxNCore/src/Calibration/../Tracking/../Events/TouchMessenger.h \
- /home/bguaman/OF/CCVepsilonycentro/server/addons/ofxNCore/src/Calibration/../Tracking/../Calibration/CalibrationUtils.h
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Calibration/../Tracking/../Events/TouchMessenger.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Calibration/../Tracking/../Calibration/CalibrationUtils.h

@@ -1,8 +1,8 @@
 obj/Release/addons/ofxNCore/src/Controls/ofxGuiPanel.o: \
- /home/bguaman/OF/OFCCV/server/addons/ofxNCore/src/Controls/ofxGuiPanel.cpp \
- /home/bguaman/OF/OFCCV/server/addons/ofxNCore/src/Controls/ofxGuiPanel.h \
- /home/bguaman/OF/OFCCV/server/addons/ofxNCore/src/Controls/ofxGuiObject.h \
- /home/bguaman/OF/OFCCV/server/addons/ofxNCore/src/Controls/ofxGuiTypes.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Controls/ofxGuiPanel.cpp \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Controls/ofxGuiPanel.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Controls/ofxGuiObject.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Controls/ofxGuiTypes.h \
  ../../../libs/openFrameworks/ofMain.h \
  ../../../libs/openFrameworks/utils/ofConstants.h \
  ../../../libs/glee/include/GLee.h \
@@ -222,15 +222,15 @@ obj/Release/addons/ofxNCore/src/Controls/ofxGuiPanel.o: \
  ../../../addons/ofxVectorMath/src/ofxQuaternion.h \
  ../../../addons/ofxXmlSettings/src/ofxXmlSettings.h \
  ../../../addons/ofxXmlSettings/libs/tinyxml.h \
- /home/bguaman/OF/OFCCV/server/addons/ofxNCore/src/Controls/ofxGuiGlobals.h \
- /home/bguaman/OF/OFCCV/server/addons/ofxNCore/src/Controls/ofxGuiSlider.h \
- /home/bguaman/OF/OFCCV/server/addons/ofxNCore/src/Controls/ofxGuiXYPad.h \
- /home/bguaman/OF/OFCCV/server/addons/ofxNCore/src/Controls/ofxGuiPoints.h \
- /home/bguaman/OF/OFCCV/server/addons/ofxNCore/src/Controls/ofxGuiButton.h \
- /home/bguaman/OF/OFCCV/server/addons/ofxNCore/src/Controls/ofxGuiFiles.h \
- /home/bguaman/OF/OFCCV/server/addons/ofxNCore/src/Controls/ofxGuiColor.h \
- /home/bguaman/OF/OFCCV/server/addons/ofxNCore/src/Controls/ofxGuiMatrix.h \
- /home/bguaman/OF/OFCCV/server/addons/ofxNCore/src/Controls/ofxGuiScope.h \
- /home/bguaman/OF/OFCCV/server/addons/ofxNCore/src/Controls/ofxGuiKnob.h \
- /home/bguaman/OF/OFCCV/server/addons/ofxNCore/src/Controls/ofxGuiRadar.h \
- /home/bguaman/OF/OFCCV/server/addons/ofxNCore/src/Controls/ofxGuiSwitch.h
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Controls/ofxGuiGlobals.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Controls/ofxGuiSlider.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Controls/ofxGuiXYPad.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Controls/ofxGuiPoints.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Controls/ofxGuiButton.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Controls/ofxGuiFiles.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Controls/ofxGuiColor.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Controls/ofxGuiMatrix.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Controls/ofxGuiScope.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Controls/ofxGuiKnob.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Controls/ofxGuiRadar.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Controls/ofxGuiSwitch.h

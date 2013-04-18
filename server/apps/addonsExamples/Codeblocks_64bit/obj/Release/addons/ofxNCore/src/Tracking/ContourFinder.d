@@ -1,6 +1,6 @@
 obj/Release/addons/ofxNCore/src/Tracking/ContourFinder.o: \
- /home/bguaman/OF/CCVepsilonycentro/server/addons/ofxNCore/src/Tracking/ContourFinder.cpp \
- /home/bguaman/OF/CCVepsilonycentro/server/addons/ofxNCore/src/Tracking/ContourFinder.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Tracking/ContourFinder.cpp \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Tracking/ContourFinder.h \
  ../../../libs/openFrameworks/ofMain.h \
  ../../../libs/openFrameworks/utils/ofConstants.h \
  ../../../libs/glee/include/GLee.h \
@@ -228,8 +228,8 @@ obj/Release/addons/ofxNCore/src/Tracking/ContourFinder.o: \
  ../../../addons/ofxOpenCv/src/ofxCvFloatImage.h \
  ../../../addons/ofxOpenCv/src/ofxCvShortImage.h \
  ../../../addons/ofxOpenCv/src/ofxCvContourFinder.h \
- /home/bguaman/OF/CCVepsilonycentro/server/addons/ofxNCore/src/Tracking/Blob.h \
- /home/bguaman/OF/CCVepsilonycentro/server/addons/ofxNCore/src/Tracking/../Templates/TemplateUtils.h \
- /home/bguaman/OF/CCVepsilonycentro/server/addons/ofxNCore/src/Tracking/../Templates/Template.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Tracking/Blob.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Tracking/../Templates/TemplateUtils.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Tracking/../Templates/Template.h \
  ../../../addons/ofxXmlSettings/src/ofxXmlSettings.h \
  ../../../addons/ofxXmlSettings/libs/tinyxml.h

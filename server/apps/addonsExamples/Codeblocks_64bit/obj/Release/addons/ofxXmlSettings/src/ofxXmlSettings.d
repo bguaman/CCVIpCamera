@@ -1,6 +1,6 @@
 obj/Release/addons/ofxXmlSettings/src/ofxXmlSettings.o: \
- /home/bguaman/OF/OFCCV/server/addons/ofxXmlSettings/src/ofxXmlSettings.cpp \
- /home/bguaman/OF/OFCCV/server/addons/ofxXmlSettings/src/ofxXmlSettings.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxXmlSettings/src/ofxXmlSettings.cpp \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxXmlSettings/src/ofxXmlSettings.h \
  ../../../libs/openFrameworks/ofMain.h \
  ../../../libs/openFrameworks/utils/ofConstants.h \
  ../../../libs/glee/include/GLee.h \

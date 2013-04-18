@@ -1,6 +1,6 @@
 obj/Release/src/testApp.o: \
- /home/bguaman/OF/CCVepsilonycentro/server/apps/addonsExamples/Codeblocks_64bit/src/testApp.cpp \
- /home/bguaman/OF/CCVepsilonycentro/server/apps/addonsExamples/Codeblocks_64bit/src/testApp.h \
+ /opt/Projectos/CCVIpCamera/server/apps/addonsExamples/Codeblocks_64bit/src/testApp.cpp \
+ /opt/Projectos/CCVIpCamera/server/apps/addonsExamples/Codeblocks_64bit/src/testApp.h \
  ../../../libs/openFrameworks/ofMain.h \
  ../../../libs/openFrameworks/utils/ofConstants.h \
  ../../../libs/glee/include/GLee.h \

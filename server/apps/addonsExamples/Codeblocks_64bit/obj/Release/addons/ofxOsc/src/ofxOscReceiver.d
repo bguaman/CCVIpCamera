@@ -1,6 +1,6 @@
 obj/Release/addons/ofxOsc/src/ofxOscReceiver.o: \
- /home/bguaman/OF/OFCCV/server/addons/ofxOsc/src/ofxOscReceiver.cpp \
- /home/bguaman/OF/OFCCV/server/addons/ofxOsc/src/ofxOscReceiver.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxOsc/src/ofxOscReceiver.cpp \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxOsc/src/ofxOscReceiver.h \
  ../../../libs/openFrameworks/ofMain.h \
  ../../../libs/openFrameworks/utils/ofConstants.h \
  ../../../libs/glee/include/GLee.h \
@@ -219,5 +219,5 @@ obj/Release/addons/ofxOsc/src/ofxOscReceiver.o: \
  ../../../addons/ofxOsc/libs/oscpack/include/ip/UdpSocket.h \
  ../../../addons/ofxOsc/libs/oscpack/include/ip/NetworkingUtils.h \
  ../../../addons/ofxOsc/libs/oscpack/include/ip/IpEndpointName.h \
- /home/bguaman/OF/OFCCV/server/addons/ofxOsc/src/ofxOscMessage.h \
- /home/bguaman/OF/OFCCV/server/addons/ofxOsc/src/ofxOscArg.h
+ /opt/Projectos/CCVIpCamera/server/addons/ofxOsc/src/ofxOscMessage.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxOsc/src/ofxOscArg.h

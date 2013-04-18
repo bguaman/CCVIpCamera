@@ -1,9 +1,9 @@
 obj/Release/addons/ofxNetwork/src/ofxTCPClient.o: \
- /home/bguaman/app/IPS/ifloor/trunk/server/addons/ofxNetwork/src/ofxTCPClient.cpp \
- /home/bguaman/app/IPS/ifloor/trunk/server/addons/ofxNetwork/src/ofxTCPClient.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNetwork/src/ofxTCPClient.cpp \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNetwork/src/ofxTCPClient.h \
  ../../../libs/openFrameworks/utils/ofConstants.h \
  ../../../libs/glee/include/GLee.h \
- /home/bguaman/app/IPS/ifloor/trunk/server/addons/ofxNetwork/src/ofxTCPManager.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNetwork/src/ofxTCPManager.h \
  ../../../libs/openFrameworks/app/ofAppRunner.h \
  ../../../libs/openFrameworks/ofMain.h \
  ../../../libs/openFrameworks/utils/ofMath.h \

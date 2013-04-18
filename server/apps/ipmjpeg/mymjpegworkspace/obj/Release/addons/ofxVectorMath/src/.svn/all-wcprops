@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ifloor/!svn/ver/5/trunk/server/apps/addonsExamples/Codeblocks_64bit/obj/Release/addons/ofxVectorMath/src
+END
+ofxMatrix3x3.d
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/ifloor/!svn/ver/7/trunk/server/apps/addonsExamples/Codeblocks_64bit/obj/Release/addons/ofxVectorMath/src/ofxMatrix3x3.d
+END
+ofxMatrix4x4.d
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/ifloor/!svn/ver/7/trunk/server/apps/addonsExamples/Codeblocks_64bit/obj/Release/addons/ofxVectorMath/src/ofxMatrix4x4.d
+END
+ofxQuaternion.d
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/ifloor/!svn/ver/7/trunk/server/apps/addonsExamples/Codeblocks_64bit/obj/Release/addons/ofxVectorMath/src/ofxQuaternion.d
+END

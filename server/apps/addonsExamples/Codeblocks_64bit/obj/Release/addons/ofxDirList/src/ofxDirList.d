@@ -1,6 +1,6 @@
 obj/Release/addons/ofxDirList/src/ofxDirList.o: \
- /home/bguaman/OF/OFCCV/server/addons/ofxDirList/src/ofxDirList.cpp \
- /home/bguaman/OF/OFCCV/server/addons/ofxDirList/src/ofxDirList.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxDirList/src/ofxDirList.cpp \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxDirList/src/ofxDirList.h \
  ../../../libs/openFrameworks/ofMain.h \
  ../../../libs/openFrameworks/utils/ofConstants.h \
  ../../../libs/glee/include/GLee.h \
