@@ -316,7 +316,6 @@ obj/Release/addons/ofxNCore/src/Tracking/BlobManager.o: \
  /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Tracking/../Controls/ofxGuiSwitch.h \
  /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Tracking/../Controls/ofxGuiTypes.h \
  /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Tracking/../Modules/ofxNCoreVision.h \
- ../../../addons/ofxNCore/src/ofxNCore.h \
  ../../../addons/ofxMjpeg/src/ofxMJPEG.h \
  ../../../addons/ofxMjpeg/src/ofxMJPEGClient.h \
  ../../../libs/poco/include/Poco/Net/HTTPClientSession.h \
@@ -331,4 +330,5 @@ obj/Release/addons/ofxNCore/src/Tracking/BlobManager.o: \
  ../../../libs/poco/include/Poco/Timespan.h \
  ../../../addons/ofxMjpeg/src/ofxMJPEGReader.h \
  ../../../addons/ofxMjpeg/src/ofxMJPEGConverter.h \
- ../../../addons/ofxMjpeg/src/ofxMJPEGImage.h
+ ../../../addons/ofxMjpeg/src/ofxMJPEGImage.h \
+ ../../../addons/ofxNCore/src/ofxNCore.h

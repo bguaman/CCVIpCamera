@@ -269,6 +269,21 @@ obj/Release/addons/ofxNCore/src/Modules/ofxNCoreVision.o: \
  ../../../addons/ofxFiducialFinder/src/ofxFinger.h \
  ../../../addons/ofxOpenCv/src/ofxCvGrayscaleImage.h \
  ../../../addons/ofxFiducialFinder/src/libfidtrack/segment.h \
+ ../../../addons/ofxMjpeg/src/ofxMJPEG.h \
+ ../../../addons/ofxMjpeg/src/ofxMJPEGClient.h \
+ ../../../libs/poco/include/Poco/Net/HTTPClientSession.h \
+ ../../../libs/poco/include/Poco/Net/Net.h \
+ ../../../libs/poco/include/Poco/Net/HTTPSession.h \
+ ../../../libs/poco/include/Poco/Net/StreamSocket.h \
+ ../../../libs/poco/include/Poco/Net/Socket.h \
+ ../../../libs/poco/include/Poco/Net/SocketImpl.h \
+ ../../../libs/poco/include/Poco/Net/SocketDefs.h \
+ ../../../libs/poco/include/Poco/Net/SocketAddress.h \
+ ../../../libs/poco/include/Poco/Net/IPAddress.h \
+ ../../../libs/poco/include/Poco/Timespan.h \
+ ../../../addons/ofxMjpeg/src/ofxMJPEGReader.h \
+ ../../../addons/ofxMjpeg/src/ofxMJPEGConverter.h \
+ ../../../addons/ofxMjpeg/src/ofxMJPEGImage.h \
  ../../../addons/ofxNCore/src/ofxNCore.h \
  ../../../addons/ofxNCore/src/Events/TouchMessenger.h \
  ../../../addons/ofxNCore/src/Events/../Tracking/ContourFinder.h \
@@ -317,21 +332,6 @@ obj/Release/addons/ofxNCore/src/Modules/ofxNCoreVision.o: \
  ../../../addons/ofxNCore/src/Controls/ofxGuiSwitch.h \
  ../../../addons/ofxNCore/src/Controls/ofxGuiTypes.h \
  ../../../addons/ofxNCore/src/Modules/ofxNCoreVision.h \
- ../../../addons/ofxMjpeg/src/ofxMJPEG.h \
- ../../../addons/ofxMjpeg/src/ofxMJPEGClient.h \
- ../../../libs/poco/include/Poco/Net/HTTPClientSession.h \
- ../../../libs/poco/include/Poco/Net/Net.h \
- ../../../libs/poco/include/Poco/Net/HTTPSession.h \
- ../../../libs/poco/include/Poco/Net/StreamSocket.h \
- ../../../libs/poco/include/Poco/Net/Socket.h \
- ../../../libs/poco/include/Poco/Net/SocketImpl.h \
- ../../../libs/poco/include/Poco/Net/SocketDefs.h \
- ../../../libs/poco/include/Poco/Net/SocketAddress.h \
- ../../../libs/poco/include/Poco/Net/IPAddress.h \
- ../../../libs/poco/include/Poco/Timespan.h \
- ../../../addons/ofxMjpeg/src/ofxMJPEGReader.h \
- ../../../addons/ofxMjpeg/src/ofxMJPEGConverter.h \
- ../../../addons/ofxMjpeg/src/ofxMJPEGImage.h \
  /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Modules/../Controls/gui.h \
  /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Modules/../Controls/../Modules/ofxNCoreVision.h \
  /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Modules/../Controls/../Camera/CameraUtils.h

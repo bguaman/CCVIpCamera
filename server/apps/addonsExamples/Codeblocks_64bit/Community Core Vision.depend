@@ -14416,11 +14416,11 @@
 
 1366315768 source:/opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Modules/ofxNCoreBase.cpp
 
-1366315768 source:/opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Modules/ofxNCoreVision.cpp
+1366322289 source:/opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Modules/ofxNCoreVision.cpp
 	"ofxNCoreVision.h"
 	"../Controls/gui.h"
 
-1366317031 /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Modules/ofxNCoreVision.h
+1366322258 /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Modules/ofxNCoreVision.h
 	"ofMain.h"
 	"ofxffmv.h"
 	"ofxPS3.h"
@@ -14433,8 +14433,8 @@
 	"ofxThread.h"
 	"ofxXmlSettings.h"
 	"ofxFiducialTracker.h"
-	"ofxNCore.h"
 	"ofxMJPEG.h"
+	"ofxNCore.h"
 
 1366315768 /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/ofxNCore.h
 	"Events/TouchMessenger.h"

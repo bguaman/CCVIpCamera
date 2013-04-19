@@ -343,14 +343,21 @@ void ofxNCoreVision::initDevice()
 		#else
 			if( vidGrabber == NULL ) //LINUX CAMERA MODE
 			{
-				vidGrabber = new ofVideoGrabber();
+				/*vidGrabber = new ofVideoGrabber();
 				vidGrabber->listDevices();
 				vidGrabber->setVerbose(true);
 				vidGrabber->initGrabber(camWidth,camHeight);
 				printf("Linux Camera Mode\nAsked for %i by %i - actual size is %i by %i \n\n", camWidth, camHeight, vidGrabber->width, vidGrabber->height);
 				camWidth = vidGrabber->width;
 				camHeight = vidGrabber->height;
-				return;
+				return;*/
+				camWidth = 320;
+				camHeight = 240;
+
+				//mjpeg.connect("http://root:root@192.168.64.28/axis-cgi/mjpg/video.cgi");
+				mjpeg.connect("http://192.168.64.28/axis-cgi/mjpg/video.cgi?resolution=320x240");
+				return ;
+
 			}
 		#endif
 	}
@@ -401,8 +408,12 @@ void ofxNCoreVision::_update(ofEventArgs &e)
 				bNewFrame = dsvl->isFrameNew();
 			}
 		#else
-			vidGrabber->grabFrame();
-			bNewFrame = vidGrabber->isFrameNew();
+			//vidGrabber->grabFrame();
+			//bNewFrame = vidGrabber->isFrameNew();
+			mjpeg.grabFrame();
+			bNewFrame = mjpeg.isFrameNew();
+
+
 		#endif
 	}
 	else //if video
@@ -526,8 +537,10 @@ void ofxNCoreVision::getPixels()
 		if(contourFinder.bTrackFiducials){processedImg_fiducial.setFromPixels(ffmv->fcImage[0].pData, camWidth, camHeight);}
 	}
 	else if(vidGrabber != NULL )
-	{
-		sourceImg.setFromPixels(vidGrabber->getPixels(), camWidth, camHeight);
+	{	//BGUAMAN
+		//sourceImg.setFromPixels(vidGrabber->getPixels(), camWidth, camHeight);
+		sourceImg.setFromPixels(mjpeg->getPixels(),camWidth,camHeight);
+
 		//convert to grayscale
 		processedImg = sourceImg;
 
@@ -561,7 +574,9 @@ void ofxNCoreVision::grabFrameToCPU()
 	    #ifdef TARGET_WIN32
 			getPixels();
  		#else
-            sourceImg.setFromPixels(vidGrabber->getPixels(), camWidth, camHeight);
+			//BGUAMAN
+            //sourceImg.setFromPixels(vidGrabber->getPixels(), camWidth, camHeight);
+            sourceImg.setFromPixels(mjpeg.getPixels(), camWidth, camHeight);
  			//convert to grayscale
  			processedImg = sourceImg;
 			if(contourFinder.bTrackFiducials){processedImg_fiducial = sourceImg;}
@@ -591,9 +606,13 @@ void ofxNCoreVision::grabFrameToGPU(GLuint target)
 			{
 				glTexSubImage2D(GL_TEXTURE_2D, 0, 0, 0, camWidth, camHeight, GL_RGB, GL_UNSIGNED_BYTE, PS3->getPixels());
 			}
-			else if(vidGrabber!=NULL)
+			//else if(vidGrabber!=NULL)
+			//{
+			//glTexSubImage2D(GL_TEXTURE_2D, 0, 0, 0, camWidth, camHeight, GL_RGB, GL_UNSIGNED_BYTE, vidGrabber->getPixels());
+			else if(mjpeg != NUL)
 			{
-				glTexSubImage2D(GL_TEXTURE_2D, 0, 0, 0, camWidth, camHeight, GL_RGB, GL_UNSIGNED_BYTE, vidGrabber->getPixels());
+
+				glTexSubImage2D(GL_TEXTURE_2D, 0, 0, 0, camWidth, camHeight, GL_RGB, GL_UNSIGNED_BYTE, mjpeg->getPixels());
 			}
 			else if(dsvl!=NULL)
 			{

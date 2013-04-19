@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <CONFIG>
     <CAMERA_0>
-        <USECAMERA>0</USECAMERA>
+        <USECAMERA>1</USECAMERA>
         <DEVICE>0</DEVICE>
         <WIDTH>320</WIDTH>
         <HEIGHT>240</HEIGHT>
@@ -33,8 +33,8 @@
         <OUTLINES>1</OUTLINES>
         <UNDISTORT>0</UNDISTORT>
         <LEARNBG>0</LEARNBG>
-        <VMIRROR>0</VMIRROR>
-        <HMIRROR>0</HMIRROR>
+        <VMIRROR>1</VMIRROR>
+        <HMIRROR>1</HMIRROR>
         <TRACKDARK>0</TRACKDARK>
         <HIGHPASS>1</HIGHPASS>
         <AMPLIFY>1</AMPLIFY>
