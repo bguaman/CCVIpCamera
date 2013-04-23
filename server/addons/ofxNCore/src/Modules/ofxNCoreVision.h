@@ -140,6 +140,9 @@ public:
 
 		vidGrabber = NULL;
 		vidPlayer = NULL;
+		//BGUAMAN
+		//inicializamos mjpeg tomando como  ejemplo vidgrabber
+		mjpeg = NULL;
 		//initialize filter
 		filter = NULL;
 		filter_fiducial = NULL;
@@ -197,6 +200,9 @@ public:
 		delete filter_fiducial;		filter_fiducial = NULL;
 		delete vidGrabber;	vidGrabber = NULL;
 		delete vidPlayer;	vidPlayer = NULL;
+		//BGUAMAN
+		//borramos el puntero mjpeg como vidgrabber
+		delete mjpeg; 		mjpeg = NULL;
 		#ifdef TARGET_WIN32
 		delete PS3;		PS3 = NULL;
 		delete ffmv; 	ffmv = NULL;
@@ -255,7 +261,7 @@ public:
 	#endif
 	ofVideoGrabber*		vidGrabber;
     ofVideoPlayer*		vidPlayer;
-    MJPEGClient mjpeg;
+    MJPEGClient*		mjpeg;
 
 	/****************************************************************
 	 *            Variables in config.xml Settings file
@@ -360,6 +366,8 @@ public:
 	 ****************************************************************/
 	string				videoFileName;
 
+    //BGUAMAN
+    string              ip_camera_address;
 	int					maxBlobs;
 
 	// The variable which will check the initilisation of camera

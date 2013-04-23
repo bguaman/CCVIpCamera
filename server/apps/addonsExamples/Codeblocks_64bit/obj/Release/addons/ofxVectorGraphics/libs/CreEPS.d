@@ -1,4 +1,4 @@
 obj/Release/addons/ofxVectorGraphics/libs/CreEPS.o: \
- /home/bguaman/app/IPS/ifloor/trunk/server/addons/ofxVectorGraphics/libs/CreEPS.cpp \
- /home/bguaman/app/IPS/ifloor/trunk/server/addons/ofxVectorGraphics/libs/CreEPS.hpp \
- /home/bguaman/app/IPS/ifloor/trunk/server/addons/ofxVectorGraphics/libs/CreEPS_Types.hpp
+ /opt/Projectos/CCVIpCamera/server/addons/ofxVectorGraphics/libs/CreEPS.cpp \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxVectorGraphics/libs/CreEPS.hpp \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxVectorGraphics/libs/CreEPS_Types.hpp

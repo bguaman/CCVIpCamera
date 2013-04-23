@@ -3,8 +3,8 @@
     <CAMERA_0>
         <USECAMERA>1</USECAMERA>
         <DEVICE>0</DEVICE>
-        <WIDTH>320</WIDTH>
-        <HEIGHT>240</HEIGHT>
+        <WIDTH>720</WIDTH>
+        <HEIGHT>576</HEIGHT>
         <FRAMERATE>30</FRAMERATE>
     </CAMERA_0>
     <NETWORK>
@@ -16,6 +16,9 @@
     <VIDEO>
         <FILENAME>test_videos/RearDI.m4v</FILENAME>
     </VIDEO>
+    <VIDEOSTREAM>
+        <IPCAMERA>http://192.168.64.28/axis-cgi/mjpg/video.cgi?resolution=320x240</IPCAMERA>
+    </VIDEOSTREAM>
     <BLOBS>
         <MAXNUMBER>20</MAXNUMBER>
     </BLOBS>

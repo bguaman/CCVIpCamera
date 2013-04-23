@@ -5,7 +5,7 @@
 		<Option title="Community_Core_Vision" />
 		<Option pch_mode="2" />
 		<Option compiler="gcc" />
-		<Option virtualFolders="addons/;src/;addons/ofxDirList/src;addons/ofxNetwork/src;addons/ofxOpenCv/src;addons/ofxOsc/src;addons/ofxThread/src;addons/ofxVectorGraphics/src;addons/ofxVectorMath/src;addons/ofxXmlSettings/src;addons/ofxDirList/src/;addons/ofxNetwork/src/;addons/ofxOpenCv/src/;addons/ofxOsc/src/;addons/ofxThread/src/;addons/ofxVectorGraphics/src/;addons/ofxVectorMath/src/;addons/ofxXmlSettings/src/;addons/ofxFiducialFinder/;addons/ofxFiducialFinder/libfidtrack/;addons/ofxDirList/;addons/ofxNCore/;addons/ofxNCore/src/;addons/ofxNCore/src/Calibration/;addons/ofxNCore/src/Camera/;addons/ofxNCore/src/Communication/;addons/ofxNCore/src/Events/;addons/ofxNCore/src/Controls/;addons/ofxNCore/src/Filters/;addons/ofxNCore/src/Modules/;addons/ofxNCore/src/Templates/;addons/ofxNCore/src/Tracking/;addons/ofxXmlSettings/src/libs/;addons/ofxVectorGraphics/libs/;addons/ofxNCore/src/Unicap/;addons/ofxContourUtil/;addons/ofxContourUtil/src/;" />
+		<Option virtualFolders="addons/;src/;addons/ofxDirList/src;addons/ofxNetwork/src;addons/ofxOpenCv/src;addons/ofxOsc/src;addons/ofxThread/src;addons/ofxVectorGraphics/src;addons/ofxVectorMath/src;addons/ofxXmlSettings/src;addons/ofxDirList/src/;addons/ofxNetwork/src/;addons/ofxOpenCv/src/;addons/ofxOsc/src/;addons/ofxThread/src/;addons/ofxVectorGraphics/src/;addons/ofxVectorMath/src/;addons/ofxXmlSettings/src/;addons/ofxFiducialFinder/;addons/ofxFiducialFinder/libfidtrack/;addons/ofxDirList/;addons/ofxNCore/;addons/ofxNCore/src/;addons/ofxNCore/src/Calibration/;addons/ofxNCore/src/Camera/;addons/ofxNCore/src/Communication/;addons/ofxNCore/src/Events/;addons/ofxNCore/src/Controls/;addons/ofxNCore/src/Filters/;addons/ofxNCore/src/Modules/;addons/ofxNCore/src/Templates/;addons/ofxNCore/src/Tracking/;addons/ofxXmlSettings/src/libs/;addons/ofxVectorGraphics/libs/;addons/ofxNCore/src/Unicap/;addons/ofxContourUtil/;addons/ofxContourUtil/src/;addons/ofxMjpeg/;" />
 		<Build>
 			<Script file="lib_finder.script" />
 			<Target title="Debug">
@@ -87,6 +87,7 @@
 			<Add directory="../../../addons/ofxOsc/libs/oscpack/include" />
 			<Add directory="../../../addons/ofxFiducialFinder/src" />
 			<Add directory="../../../addons/ofxNCore/src" />
+			<Add directory="../../../addons/ofxMjpeg/src" />
 		</Compiler>
 		<Linker>
 			<Add library="fmodex" />
@@ -95,6 +96,7 @@
 			<Add library="GLU" />
 			<Add library="Xxf86vm" />
 			<Add library="asound" />
+			<Add library="PocoNet" />
 			<Add library="PocoFoundation" />
 			<Add library="freetype" />
 			<Add library="freeimage" />
@@ -174,6 +176,33 @@
 		</Unit>
 		<Unit filename="../../../addons/ofxFiducialFinder/src/ofxFinger.h">
 			<Option virtualFolder="addons/ofxFiducialFinder/" />
+		</Unit>
+		<Unit filename="../../../addons/ofxMjpeg/src/ofxMJPEG.h">
+			<Option virtualFolder="addons/ofxMjpeg/" />
+		</Unit>
+		<Unit filename="../../../addons/ofxMjpeg/src/ofxMJPEGClient.cpp">
+			<Option virtualFolder="addons/ofxMjpeg/" />
+		</Unit>
+		<Unit filename="../../../addons/ofxMjpeg/src/ofxMJPEGClient.h">
+			<Option virtualFolder="addons/ofxMjpeg/" />
+		</Unit>
+		<Unit filename="../../../addons/ofxMjpeg/src/ofxMJPEGConverter.cpp">
+			<Option virtualFolder="addons/ofxMjpeg/" />
+		</Unit>
+		<Unit filename="../../../addons/ofxMjpeg/src/ofxMJPEGConverter.h">
+			<Option virtualFolder="addons/ofxMjpeg/" />
+		</Unit>
+		<Unit filename="../../../addons/ofxMjpeg/src/ofxMJPEGImage.cpp">
+			<Option virtualFolder="addons/ofxMjpeg/" />
+		</Unit>
+		<Unit filename="../../../addons/ofxMjpeg/src/ofxMJPEGImage.h">
+			<Option virtualFolder="addons/ofxMjpeg/" />
+		</Unit>
+		<Unit filename="../../../addons/ofxMjpeg/src/ofxMJPEGReader.cpp">
+			<Option virtualFolder="addons/ofxMjpeg/" />
+		</Unit>
+		<Unit filename="../../../addons/ofxMjpeg/src/ofxMJPEGReader.h">
+			<Option virtualFolder="addons/ofxMjpeg/" />
 		</Unit>
 		<Unit filename="../../../addons/ofxNCore/src/Calibration/Calibration.cpp">
 			<Option virtualFolder="addons/ofxNCore/src/Calibration/" />

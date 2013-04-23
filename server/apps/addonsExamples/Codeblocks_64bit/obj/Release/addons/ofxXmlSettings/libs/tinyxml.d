@@ -1,3 +1,3 @@
 obj/Release/addons/ofxXmlSettings/libs/tinyxml.o: \
- /home/bguaman/app/IPS/ifloor/trunk/server/addons/ofxXmlSettings/libs/tinyxml.cpp \
- /home/bguaman/app/IPS/ifloor/trunk/server/addons/ofxXmlSettings/libs/tinyxml.h
+ /opt/Projectos/CCVIpCamera/server/addons/ofxXmlSettings/libs/tinyxml.cpp \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxXmlSettings/libs/tinyxml.h

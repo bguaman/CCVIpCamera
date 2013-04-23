@@ -1,2 +1,2 @@
 obj/Release/addons/ofxNCore/src/Modules/ofxNCoreBase.o: \
- /home/bguaman/app/IPS/ifloor/trunk/server/addons/ofxNCore/src/Modules/ofxNCoreBase.cpp
+ /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Modules/ofxNCoreBase.cpp

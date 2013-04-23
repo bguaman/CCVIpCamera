@@ -165,6 +165,8 @@ void ofxNCoreVision::loadXMLSettings()
 	filter->bLearnBakground		= XML.getValue("CONFIG:BOOLEAN:LEARNBG",0);
 	filter->bVerticalMirror		= XML.getValue("CONFIG:BOOLEAN:VMIRROR",0);
 	filter->bHorizontalMirror	= XML.getValue("CONFIG:BOOLEAN:HMIRROR",0);
+	//BGUAMAN
+	ip_camera_address 			= XML.getValue("CONFIG:VIDEOSTREAM:IPCAMERA", "http://192.168.64.28/axis-cgi/mjpg/video.cgi?resolution=320x240");
 
 	//Filters
 	filter->bTrackDark			= XML.getValue("CONFIG:BOOLEAN:TRACKDARK", 0);
@@ -341,24 +343,38 @@ void ofxNCoreVision::initDevice()
 				return;
 			}
 		#else
-			if( vidGrabber == NULL ) //LINUX CAMERA MODE
+            if (mjpeg == NULL)
 			{
-				/*vidGrabber = new ofVideoGrabber();
+                camWidth = 320;
+				camHeight = 240;
+
+				//mjpeg.connect("http://root:root@192.168.64.28/axis-cgi/mjpg/video.cgi");
+				mjpeg = new MJPEGClient();
+				mjpeg->connect(ip_camera_address);
+
+                return ;
+
+			}
+
+
+
+            else if( vidGrabber == NULL ) //LINUX CAMERA MODE
+			{
+                vidGrabber = new ofVideoGrabber();
 				vidGrabber->listDevices();
 				vidGrabber->setVerbose(true);
 				vidGrabber->initGrabber(camWidth,camHeight);
 				printf("Linux Camera Mode\nAsked for %i by %i - actual size is %i by %i \n\n", camWidth, camHeight, vidGrabber->width, vidGrabber->height);
 				camWidth = vidGrabber->width;
 				camHeight = vidGrabber->height;
-				return;*/
-				camWidth = 320;
-				camHeight = 240;
 
-				//mjpeg.connect("http://root:root@192.168.64.28/axis-cgi/mjpg/video.cgi");
-				mjpeg.connect("http://192.168.64.28/axis-cgi/mjpg/video.cgi?resolution=320x240");
-				return ;
-
+                return ;
 			}
+
+
+
+
+
 		#endif
 	}
 	else
@@ -408,10 +424,14 @@ void ofxNCoreVision::_update(ofEventArgs &e)
 				bNewFrame = dsvl->isFrameNew();
 			}
 		#else
-			//vidGrabber->grabFrame();
-			//bNewFrame = vidGrabber->isFrameNew();
-			mjpeg.grabFrame();
-			bNewFrame = mjpeg.isFrameNew();
+            if (mjpeg != NULL){
+			mjpeg->grabFrame();
+			bNewFrame = mjpeg->isFrameNew();
+			}
+			else if( vidGrabber != NULL ){
+			vidGrabber->grabFrame();
+			bNewFrame = vidGrabber->isFrameNew();
+			}
 
 
 		#endif
@@ -537,15 +557,16 @@ void ofxNCoreVision::getPixels()
 		if(contourFinder.bTrackFiducials){processedImg_fiducial.setFromPixels(ffmv->fcImage[0].pData, camWidth, camHeight);}
 	}
 	else if(vidGrabber != NULL )
-	{	//BGUAMAN
-		//sourceImg.setFromPixels(vidGrabber->getPixels(), camWidth, camHeight);
-		sourceImg.setFromPixels(mjpeg->getPixels(),camWidth,camHeight);
+	{
+	    sourceImg.setFromPixels(vidGrabber->getPixels(), camWidth, camHeight);
+		//sourceImg.setFromPixels(mjpeg->getPixels(),camWidth,camHeight);
 
 		//convert to grayscale
 		processedImg = sourceImg;
 
 		if(contourFinder.bTrackFiducials){processedImg_fiducial = sourceImg;}
 	}
+
 	else if(dsvl!=NULL)
 	{
 		if(dsvl->getNumByes() != 1){ //if not grayscale
@@ -574,12 +595,30 @@ void ofxNCoreVision::grabFrameToCPU()
 	    #ifdef TARGET_WIN32
 			getPixels();
  		#else
+
 			//BGUAMAN
-            //sourceImg.setFromPixels(vidGrabber->getPixels(), camWidth, camHeight);
-            sourceImg.setFromPixels(mjpeg.getPixels(), camWidth, camHeight);
- 			//convert to grayscale
- 			processedImg = sourceImg;
-			if(contourFinder.bTrackFiducials){processedImg_fiducial = sourceImg;}
+	if ( mjpeg != NULL){
+
+		//BGUAMAN
+        sourceImg.setFromPixels(mjpeg->getPixels(),camWidth,camHeight);
+		//convert to grayscale
+		processedImg = sourceImg;
+
+		if(contourFinder.bTrackFiducials){processedImg_fiducial = sourceImg;}
+	}
+	else if(vidGrabber != NULL )
+	{
+	    sourceImg.setFromPixels(vidGrabber->getPixels(), camWidth, camHeight);
+		//sourceImg.setFromPixels(mjpeg->getPixels(),camWidth,camHeight);
+
+		//convert to grayscale
+		processedImg = sourceImg;
+
+		if(contourFinder.bTrackFiducials){processedImg_fiducial = sourceImg;}
+	}
+
+
+
  		#endif
 	}
 	else
@@ -606,20 +645,30 @@ void ofxNCoreVision::grabFrameToGPU(GLuint target)
 			{
 				glTexSubImage2D(GL_TEXTURE_2D, 0, 0, 0, camWidth, camHeight, GL_RGB, GL_UNSIGNED_BYTE, PS3->getPixels());
 			}
-			//else if(vidGrabber!=NULL)
-			//{
-			//glTexSubImage2D(GL_TEXTURE_2D, 0, 0, 0, camWidth, camHeight, GL_RGB, GL_UNSIGNED_BYTE, vidGrabber->getPixels());
-			else if(mjpeg != NUL)
+			else if(vidGrabber!=NULL)
 			{
 
-				glTexSubImage2D(GL_TEXTURE_2D, 0, 0, 0, camWidth, camHeight, GL_RGB, GL_UNSIGNED_BYTE, mjpeg->getPixels());
+			glTexSubImage2D(GL_TEXTURE_2D, 0, 0, 0, camWidth, camHeight, GL_RGB, GL_UNSIGNED_BYTE, vidGrabber->getPixels());
+
 			}
+
 			else if(dsvl!=NULL)
 			{
 				glTexSubImage2D(GL_TEXTURE_2D, 0, 0, 0, camWidth, camHeight, GL_RGB, GL_UNSIGNED_BYTE, dsvl->getPixels());
 			}
 		#else
-            glTexSubImage2D(GL_TEXTURE_2D, 0, 0, 0, camWidth, camHeight, GL_RGB, GL_UNSIGNED_BYTE, vidGrabber->getPixels());
+			if(mjpeg != NULL)
+			{
+
+				glTexSubImage2D(GL_TEXTURE_2D, 0, 0, 0, camWidth, camHeight, GL_RGB, GL_UNSIGNED_BYTE, mjpeg->getPixels());
+			}
+           	else if(vidGrabber!=NULL)
+			{
+
+			glTexSubImage2D(GL_TEXTURE_2D, 0, 0, 0, camWidth, camHeight, GL_RGB, GL_UNSIGNED_BYTE, vidGrabber->getPixels());
+
+			}
+
 		#endif
 		glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_MIN_FILTER, GL_NEAREST);
 		glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_MAG_FILTER, GL_NEAREST);
@@ -1211,7 +1260,9 @@ void ofxNCoreVision::_exit(ofEventArgs &e)
 		delete dsvl;	dsvl = NULL;
 	#endif
 	delete filter;		filter = NULL;
+	delete mjpeg; 		mjpeg = NULL;
 	delete vidGrabber;	vidGrabber = NULL;
+
 	delete vidPlayer;	vidPlayer = NULL;
 	// -------------------------------- SAVE STATE ON EXIT
 	printf("Vision module has exited!\n");

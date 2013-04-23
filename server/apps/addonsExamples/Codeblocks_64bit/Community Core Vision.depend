@@ -14416,11 +14416,11 @@
 
 1366315768 source:/opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Modules/ofxNCoreBase.cpp
 
-1366322289 source:/opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Modules/ofxNCoreVision.cpp
+1366649675 source:/opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Modules/ofxNCoreVision.cpp
 	"ofxNCoreVision.h"
 	"../Controls/gui.h"
 
-1366322258 /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Modules/ofxNCoreVision.h
+1366642845 /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Modules/ofxNCoreVision.h
 	"ofMain.h"
 	"ofxffmv.h"
 	"ofxPS3.h"
@@ -14459,7 +14459,7 @@
 	"CPUImageFilter.h"
 	"GPUImageFilter.h"
 
-1366315768 /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Controls/gui.h
+1366649553 /opt/Projectos/CCVIpCamera/server/addons/ofxNCore/src/Controls/gui.h
 	"../Modules/ofxNCoreVision.h"
 	"../Camera/CameraUtils.h"
 

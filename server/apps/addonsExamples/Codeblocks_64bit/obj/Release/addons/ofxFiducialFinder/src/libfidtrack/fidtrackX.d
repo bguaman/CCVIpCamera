@@ -1,6 +1,6 @@
 obj/Release/addons/ofxFiducialFinder/src/libfidtrack/fidtrackX.o: \
- /home/bguaman/app/IPS/ifloor/trunk/server/addons/ofxFiducialFinder/src/libfidtrack/fidtrackX.cpp \
- /home/bguaman/app/IPS/ifloor/trunk/server/addons/ofxFiducialFinder/src/libfidtrack/fidtrackX.h \
- /home/bguaman/app/IPS/ifloor/trunk/server/addons/ofxFiducialFinder/src/libfidtrack/segment.h \
- /home/bguaman/app/IPS/ifloor/trunk/server/addons/ofxFiducialFinder/src/libfidtrack/treeidmap.h \
- /home/bguaman/app/IPS/ifloor/trunk/server/addons/ofxFiducialFinder/src/libfidtrack/floatpoint.h
+ /opt/Projectos/CCVIpCamera/server/addons/ofxFiducialFinder/src/libfidtrack/fidtrackX.cpp \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxFiducialFinder/src/libfidtrack/fidtrackX.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxFiducialFinder/src/libfidtrack/segment.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxFiducialFinder/src/libfidtrack/treeidmap.h \
+ /opt/Projectos/CCVIpCamera/server/addons/ofxFiducialFinder/src/libfidtrack/floatpoint.h
